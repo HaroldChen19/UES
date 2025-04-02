@@ -32,7 +32,6 @@ _**[Harold Haodong Chen](https://haroldchen19.github.io/)<sup>1,2</sup>, [Harry 
 - __[2025.04.02]__: Released the training & inference code of UES on [DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter).
 - __[2025.03.18]__: Initialized this github repository and released UES [Paper](https://arxiv.org/abs/2412.02114).
 
-<br>
 
 ## 🧰 TODO
 

@@ -1,0 +1,1454 @@
+[
+    {
+        "Video Name": "1",
+        "Video Type": "Object",
+        "Original Prompt": "A close-up of vibrant orchids with yellow and red petals, set against a lush green background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A close-up of vibrant orchids with yellow and red petals, set against a lush green background, with a hummingbird hovering near the flowers.",
+                "Delta Prompt": "with a hummingbird hovering near the flowers"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A close-up of vibrant orchids with yellow and red petals, set against a tropical waterfall in the background.",
+                "Delta Prompt": "set against a tropical waterfall in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A close-up of vibrant orchids with yellow and red petals, set against a lush green background, in a soft watercolor style.",
+                "Delta Prompt": "in a soft watercolor style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A close-up of vibrant orchids with yellow and red petals, with a hummingbird hovering near the flowers, set against a tropical waterfall in the background.",
+                "Delta Prompt": "with a hummingbird hovering near the flowers, set against a tropical waterfall in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A close-up of vibrant orchids with yellow and red petals, set against a lush green background, with butterflies fluttering around.",
+                "Delta Prompt": "with butterflies fluttering around"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A close-up of vibrant orchids with yellow and red petals, set against a clear, uncluttered green background with no other plants.",
+                "Delta Prompt": "set against a clear, uncluttered green background with no other plants"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A close-up of vibrant roses with yellow and red petals, set against a lush green background.",
+                "Delta Prompt": "roses"
+            }
+        ]
+    },
+    {
+        "Video Name": "1zeQT4HPWvw_11_0to111",
+        "Video Type": "Object",
+        "Original Prompt": "An interior view of a modern car dashboard with a touchscreen display, steering wheel, and controls, set in a parked position near a green park.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "An interior view of a modern car dashboard with a touchscreen display, steering wheel, and controls, with a coffee cup placed in the cup holder.",
+                "Delta Prompt": "with a coffee cup placed in the cup holder"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "An interior view of a modern car dashboard with a touchscreen display, steering wheel, and controls, parked near a bustling city street.",
+                "Delta Prompt": "parked near a bustling city street"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "An interior view of a modern car dashboard with a touchscreen display, steering wheel, and controls, shown in a futuristic, high-tech digital style.",
+                "Delta Prompt": "in a futuristic, high-tech digital style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "An interior view of a modern car dashboard with a touchscreen display, steering wheel, and controls, with a coffee cup placed in the cup holder, parked near a bustling city street.",
+                "Delta Prompt": "with a coffee cup placed in the cup holder, parked near a bustling city street"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "An interior view of a modern car dashboard with a touchscreen display, steering wheel, and controls, with a smartphone attached to a dashboard mount.",
+                "Delta Prompt": "with a smartphone attached to a dashboard mount"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "An interior view of a modern car dashboard with a touchscreen display, steering wheel, and controls, without the navigation system screen.",
+                "Delta Prompt": "without the navigation system screen"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "An interior view of a modern car dashboard with a classic analog radio instead of the touchscreen display.",
+                "Delta Prompt": "a classic analog radio"
+            }
+        ]
+    },
+    {
+        "Video Name": "2",
+        "Video Type": "Object",
+        "Original Prompt": "A scenic coastal view with waves crashing against rocky shorelines under a partly cloudy sky, with distant mountains visible on the horizon.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A scenic coastal view with waves crashing against rocky shorelines under a partly cloudy sky, with a sailboat near the shore.",
+                "Delta Prompt": "with a sailboat near the shore"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A scenic coastal view with waves crashing against rocky shorelines under a partly cloudy sky, with a distant lighthouse visible on the horizon.",
+                "Delta Prompt": "with a distant lighthouse visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A scenic coastal view with waves crashing against rocky shorelines under a golden sunset sky, casting warm light over the ocean.",
+                "Delta Prompt": "under a golden sunset sky, casting warm light over the ocean"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A scenic coastal view with waves crashing against rocky shorelines under a partly cloudy sky, with a sailboat near the shore and a distant lighthouse visible on the horizon.",
+                "Delta Prompt": "with a sailboat near the shore and a distant lighthouse visible on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A scenic coastal view with waves crashing against rocky shorelines under a partly cloudy sky, with fishing boats.",
+                "Delta Prompt": "with fishing boats"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A scenic coastal view with waves crashing against rocky shorelines under a partly cloudy sky, with the horizon free of mountains.",
+                "Delta Prompt": "with the horizon free of mountains"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A scenic coastal view with waves crashing against sandy beaches under a partly cloudy sky, with palm trees lining the shore.",
+                "Delta Prompt": "sandy beaches and add palm trees"
+            }
+        ]
+    },
+    {
+        "Video Name": "49t2UhE8UfA_415_0to131",
+        "Video Type": "Object",
+        "Original Prompt": "A dish served in a uniquely shaped bowl, featuring a dark sauce or paste garnished with fresh parsley and finely chopped onions.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A dish served in a uniquely shaped bowl, featuring a dark sauce with grilled shrimp on top, garnished with fresh parsley and finely chopped onions.",
+                "Delta Prompt": "with grilled shrimp on top"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A dish served in a uniquely shaped bowl, featuring a dark sauce garnished with fresh parsley and finely chopped onions, placed on a wooden table.",
+                "Delta Prompt": "placed on a wooden table"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A dish served in a uniquely shaped bowl, featuring a dark sauce garnished with fresh parsley and finely chopped onions, with a rustic, vintage filter applied.",
+                "Delta Prompt": "with a rustic, vintage filter applied"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A dish served in a uniquely shaped bowl, featuring a dark sauce with grilled shrimp on top, garnished with fresh parsley and finely chopped onions, placed on a wooden table with a rustic, vintage filter applied.",
+                "Delta Prompt": "with grilled shrimp on top, placed on a wooden table with a rustic, vintage filter applied"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A dish served in a uniquely shaped bowl, featuring a dark sauce garnished with fresh parsley, finely chopped onions, and a slice of lemon on the side.",
+                "Delta Prompt": "with a slice of lemon on the side"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A dish served in a uniquely shaped bowl, featuring a dark sauce without any garnishes.",
+                "Delta Prompt": "without any garnishes"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A dish served in a uniquely shaped bowl, featuring a vibrant green guacamole garnished with diced tomatoes and cilantro.",
+                "Delta Prompt": "vibrant green guacamole garnished with diced tomatoes and cilantro"
+            }
+        ]
+    },
+    {
+        "Video Name": "445_usa_america_flag_American flag H264 75720p5000br",
+        "Video Type": "Object",
+        "Original Prompt": "An American flag waving on a flagpole against a clear blue sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "An American flag waving on a flagpole with an eagle perched at the top, against a clear blue sky.",
+                "Delta Prompt": "with an eagle perched at the top"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "An American flag waving on a flagpole against a background of fluffy white clouds in the blue sky.",
+                "Delta Prompt": "against a background of fluffy white clouds in the blue sky"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "An American flag waving on a flagpole with a vintage sepia tone effect, against a clear blue sky.",
+                "Delta Prompt": "with a vintage sepia tone effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "An American flag waving on a flagpole with an eagle perched at the top and fluffy white clouds in the background, all with a vintage sepia tone effect.",
+                "Delta Prompt": "with an eagle perched at the top, fluffy white clouds in the background, and a vintage sepia tone effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "An American flag waving on a flagpole with fireworks in the sky around it.",
+                "Delta Prompt": "with fireworks in the sky around it"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "An American flag waving on a flagpole against a clear sky, without any decorative finial on top.",
+                "Delta Prompt": "without any decorative finial on top"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A Canadian flag waving on a flagpole against a clear blue sky.",
+                "Delta Prompt": "Canadian flag"
+            }
+        ]
+    },
+    {
+        "Video Name": "1802_roses_flower_flowers_RedRosesinSunlightHervardOlanderMerved720p5000br",
+        "Video Type": "Object",
+        "Original Prompt": "A beautiful garden of vibrant red roses in full bloom swaying gently in the breeze.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A beautiful garden of vibrant red roses in full bloom swaying gently in the breeze with butterflies flying around.",
+                "Delta Prompt": "with butterflies flying around"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A beautiful garden of vibrant red roses in full bloom swaying gently in the breeze with a large fountain in the background.",
+                "Delta Prompt": "with a large fountain in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A beautiful garden of vibrant red roses in full bloom swaying gently in the breeze with a soft, dreamlike blur effect.",
+                "Delta Prompt": "with a soft, dreamlike blur effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A beautiful garden of vibrant red roses with butterflies flying around in full bloom swaying gently in the breeze with a soft, dreamlike blur effect.",
+                "Delta Prompt": "with butterflies flying around, with a soft, dreamlike blur effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A beautiful garden of vibrant red roses in full bloom swaying gently in the breeze with bees and butterflies buzzing around.",
+                "Delta Prompt": "with bees and butterflies buzzing around"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A beautiful garden of vibrant red roses in full bloom swaying gently in the breeze with a clear flower bed, free of weeds or grass.",
+                "Delta Prompt": "with a clear flower bed, free of weeds or grass"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A beautiful garden of vibrant yellow sunflowers in full bloom swaying gently in the breeze.",
+                "Delta Prompt": "yellow sunflowers"
+            }
+        ]
+    },
+    {
+        "Video Name": "2997_coll_earth_day_earth_universo_P1TerrraIntera720p5000br",
+        "Video Type": "Object",
+        "Original Prompt": "A view of Earth from space with the sun shining in the background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A view of Earth from space with several satellites orbiting around it and the sun shining in the background.",
+                "Delta Prompt": "with several satellites orbiting around it"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A view of Earth from space with a distant galaxy visible in the background alongside the sun.",
+                "Delta Prompt": "with a distant galaxy visible in the background alongside the sun"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A view of Earth from space with a vibrant, neon-colored glow effect, with the sun shining in the background.",
+                "Delta Prompt": "with a vibrant, neon-colored glow effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A view of Earth from space with several satellites orbiting around it, a distant galaxy visible in the background, and a vibrant neon-colored glow effect with the sun shining.",
+                "Delta Prompt": "with several satellites orbiting around it, a distant galaxy visible in the background, and a vibrant neon-colored glow effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A view of Earth from space with the International Space Station visible in the foreground and the sun shining in the background.",
+                "Delta Prompt": "with the International Space Station visible in the foreground"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A view of Earth from space without any cloud cover, showing only land and water formations, with the sun shining in the background.",
+                "Delta Prompt": "without any cloud cover, showing only land and water formations"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A view of Mars from space with the sun shining in the background.",
+                "Delta Prompt": "Mars"
+            }
+        ]
+    },
+    {
+        "Video Name": "4027_SingaporeAirlines_singapore_a380_Bigplane00001720p5000br",
+        "Video Type": "Object",
+        "Original Prompt": "An airplane in flight approaching for landing, captured from the front view against a clear sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "An airplane in flight approaching for landing with a flock of birds flying near it, captured from the front view against a clear sky.",
+                "Delta Prompt": "with a flock of birds flying near it"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "An airplane in flight approaching for landing with a mountain range visible in the background, captured from the front view.",
+                "Delta Prompt": "with a mountain range visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "An airplane in flight approaching for landing with a vintage, sepia-toned filter applied, captured from the front view against a clear sky.",
+                "Delta Prompt": "with a vintage, sepia-toned filter applied"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "An airplane in flight approaching for landing with a flock of birds flying near it and a mountain range in the background, captured from the front view with a vintage, sepia-toned filter applied.",
+                "Delta Prompt": "with a flock of birds flying near it, a mountain range in the background, and a vintage, sepia-toned filter applied"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "An airplane in flight approaching for landing with another plane flying parallel to it, captured from the front view against a clear sky.",
+                "Delta Prompt": "with another plane flying parallel to it"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "An airplane in flight approaching for landing without any airline logo or markings, captured from the front view against a clear sky.",
+                "Delta Prompt": "without any airline logo or markings"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A fighter jet in flight approaching for landing, captured from the front view against a clear sky.",
+                "Delta Prompt": "a fighter jet"
+            }
+        ]
+    },
+    {
+        "Video Name": "4067_landing_gear_touchdown_landing_DL720p5000br",
+        "Video Type": "Object",
+        "Original Prompt": "An airplane approaching a runway for landing with a forested landscape in the background under a clear sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "An airplane approaching a runway for landing with a flock of birds flying near it, with a forested landscape in the background under a clear sky.",
+                "Delta Prompt": "with a flock of birds flying near it"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "An airplane approaching a runway for landing with a city skyline visible in the distance, with a forested landscape in the foreground under a clear sky.",
+                "Delta Prompt": "with a city skyline visible in the distance"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "An airplane approaching a runway for landing with a forested landscape in the background under a cloudy, moody sky.",
+                "Delta Prompt": "under a cloudy, moody sky"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "An airplane approaching a runway for landing with a flock of birds flying near it and a city skyline visible in the distance, with a forested landscape in the foreground under a cloudy, moody sky.",
+                "Delta Prompt": "with a flock of birds flying near it, a city skyline visible in the distance, and a cloudy, moody sky"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "An airplane approaching a runway for landing with another plane flying parallel to it, with a forested landscape in the background under a clear sky.",
+                "Delta Prompt": "with another plane flying parallel to it"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "An airplane approaching a runway for landing without any visible runway lights or signage, with a forested landscape in the background under a clear sky.",
+                "Delta Prompt": "without any visible runway lights or signage"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A helicopter approaching a landing pad near a forested landscape under a clear sky.",
+                "Delta Prompt": "a helicopter"
+            }
+        ]
+    },
+    {
+        "Video Name": "4113_tanker_maersk_ship_beach12720p5000br",
+        "Video Type": "Object",
+        "Original Prompt": "A large cargo ship on the open sea under a calm, pinkish sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A large cargo ship with several seagulls flying around it on the open sea under a calm, pinkish sky.",
+                "Delta Prompt": "with several seagulls flying around it"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A large cargo ship on the open sea with distant mountains visible on the horizon under a calm, pinkish sky.",
+                "Delta Prompt": "with distant mountains visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A large cargo ship on the open sea under a vibrant sunset sky with warm, golden tones.",
+                "Delta Prompt": "under a vibrant sunset sky with warm, golden tones"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A large cargo ship with several seagulls flying around it on the open sea with distant mountains visible on the horizon under a vibrant sunset sky with warm, golden tones.",
+                "Delta Prompt": "with several seagulls flying around it, distant mountains on the horizon, and a vibrant sunset sky with warm, golden tones"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A large cargo ship with a small fishing boat nearby on the open sea under a calm, pinkish sky.",
+                "Delta Prompt": "with a small fishing boat nearby"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A large cargo ship on the open sea under a clear blue sky with no pinkish tones.",
+                "Delta Prompt": "with no ship"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A large cruise ship on the open sea under a calm, pinkish sky.",
+                "Delta Prompt": "a cruise ship"
+            }
+        ]
+    },
+    {
+        "Video Name": "4735_poured_beer_alcohol_LightBeerPouringFromBeerBottle1",
+        "Video Type": "Object",
+        "Original Prompt": "A glass of beer being filled, creating a light foam on the surface.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A glass of beer being filled with a lemon slice floating on top, creating a light foam on the surface.",
+                "Delta Prompt": "with a lemon slice floating on top"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A glass of beer being filled with a rustic wooden table in the background.",
+                "Delta Prompt": "with a rustic wooden table in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A glass of beer being filled with a vintage filter effect, creating a warm and nostalgic look.",
+                "Delta Prompt": "with a vintage filter effect, creating a warm and nostalgic look"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A glass of beer being filled with a lemon slice floating on top, on a rustic wooden table, with a vintage filter effect.",
+                "Delta Prompt": "with a lemon slice floating on top, on a rustic wooden table, with a vintage filter effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A glass of beer being filled with a small umbrella placed inside the glass, creating a light foam on the surface.",
+                "Delta Prompt": "with a small umbrella placed inside the glass"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A glass of beer being filled, without any foam forming on the surface.",
+                "Delta Prompt": "without any foam forming on the surface"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A glass of sparkling cider being filled, creating a light foam on the surface.",
+                "Delta Prompt": "sparkling cider"
+            }
+        ]
+    },
+    {
+        "Video Name": "180607_A_091",
+        "Video Type": "Object",
+        "Original Prompt": "A vehicle driving down a rugged dirt road through an open landscape under a partly cloudy sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A vehicle driving down a rugged dirt road with a mountain bike mounted on its roof, through an open landscape under a partly cloudy sky.",
+                "Delta Prompt": "with a mountain bike mounted on its roof"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A vehicle driving down a rugged dirt road through an open landscape with a distant village visible in the background under a partly cloudy sky.",
+                "Delta Prompt": "with a distant village visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A vehicle driving down a rugged dirt road through an open landscape under a partly cloudy sky, with a vintage film grain effect.",
+                "Delta Prompt": "with a vintage film grain effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A vehicle driving down a rugged dirt road with a mountain bike mounted on its roof, through an open landscape with a distant village visible, under a partly cloudy sky with a vintage film grain effect.",
+                "Delta Prompt": "with a mountain bike mounted on its roof, with a distant village visible, with a vintage film grain effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A vehicle driving down a rugged dirt road through an open landscape under a partly cloudy sky, with a caravan following behind.",
+                "Delta Prompt": "with a caravan following behind"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A vehicle driving down a rugged dirt road through an open landscape under a clear sky, with no clouds.",
+                "Delta Prompt": "under a clear sky, with no clouds"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A group of off-road motorbikes riding down a rugged dirt road through an open landscape under a partly cloudy sky.",
+                "Delta Prompt": "a group of off-road motorbikes"
+            }
+        ]
+    },
+    {
+        "Video Name": "220509_04_London Student_4k_011",
+        "Video Type": "Object",
+        "Original Prompt": "An airplane flying high in a clear blue sky with a small cloud in the corner.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "An airplane flying high in a clear blue sky with a banner trailing behind it and a small cloud in the corner.",
+                "Delta Prompt": "with a banner trailing behind it"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "An airplane flying high over a landscape with a mountain range faintly visible below, with a small cloud in the corner.",
+                "Delta Prompt": "with a mountain range faintly visible below"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "An airplane flying high in a clear blue sky with a vintage film grain effect, and a small cloud in the corner.",
+                "Delta Prompt": "with a vintage film grain effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "An airplane flying high with a banner trailing behind it over a landscape with a mountain range faintly visible below, under a clear blue sky with a vintage film grain effect.",
+                "Delta Prompt": "with a banner trailing behind it, with a mountain range faintly visible below, with a vintage film grain effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "An airplane flying high in a clear blue sky with a small cloud in the corner and a flock of birds flying nearby.",
+                "Delta Prompt": "with a flock of birds flying nearby"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A clear blue sky with a small cloud in the corner.",
+                "Delta Prompt": "with no airplane"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A colorful hot air balloon flying high in a clear blue sky with a small cloud in the corner.",
+                "Delta Prompt": "a colorful hot air balloon"
+            }
+        ]
+    },
+    {
+        "Video Name": "607793_lotus_nature_flowers_mixkitbeautifullotusflowerinalake12436large1604661050",
+        "Video Type": "Object",
+        "Original Prompt": "A pink lotus flower blooming in a serene pond with green lily pads.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A pink lotus flower blooming in a serene pond with a dragonfly perched on one of its petals and surrounded by green lily pads.",
+                "Delta Prompt": "with a dragonfly perched on one of its petals"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A pink lotus flower blooming in a serene pond with green lily pads, with a misty forest visible in the background.",
+                "Delta Prompt": "with a misty forest visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A pink lotus flower blooming in a serene pond with green lily pads, with a soft watercolor painting effect.",
+                "Delta Prompt": "with a soft watercolor painting effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A pink lotus flower blooming in a serene pond with a dragonfly perched on one of its petals and a misty forest visible in the background, with a soft watercolor painting effect.",
+                "Delta Prompt": "with a dragonfly perched on one of its petals, with a misty forest visible in the background, with a soft watercolor painting effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A pink lotus flower blooming in a serene pond with green lily pads and koi fish swimming nearby.",
+                "Delta Prompt": "with koi fish swimming nearby"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A pink lotus flower blooming alone in a serene pond without any lily pads.",
+                "Delta Prompt": "without any lily pads"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A rose blooming in a serene pond with green lily pads.",
+                "Delta Prompt": "a rose"
+            }
+        ]
+    },
+    {
+        "Video Name": "1104478_1080p_4k_1280x720",
+        "Video Type": "Object",
+        "Original Prompt": "A bicycle parked on a beach during sunset with mountains in the background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A bicycle parked on a beach during sunset with a surfboard leaning against it and mountains in the background.",
+                "Delta Prompt": "with a surfboard leaning against it"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A bicycle parked on a beach during sunset with a lighthouse visible in the distance and mountains in the background.",
+                "Delta Prompt": "with a lighthouse visible in the distance"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A bicycle parked on a beach during sunset with mountains in the background, in a vintage sepia tone.",
+                "Delta Prompt": "in a vintage sepia tone"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A bicycle parked on a beach during sunset with a surfboard leaning against it, a lighthouse visible in the distance, and mountains in the background, in a vintage sepia tone.",
+                "Delta Prompt": "with a surfboard leaning against it, with a lighthouse visible in the distance, in a vintage sepia tone"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A bicycle parked on a beach during sunset with seagulls flying nearby and mountains in the background.",
+                "Delta Prompt": "with seagulls flying nearby"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A bicycle parked on a beach during sunset with a clear, open beach and mountains in the background, without any footprints.",
+                "Delta Prompt": "without any footprints"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A skateboard parked on a beach during sunset with mountains in the background.",
+                "Delta Prompt": "a skateboard"
+            }
+        ]
+    },
+    {
+        "Video Name": "aeUFkj8G3qw_54_89to212",
+        "Video Type": "Object",
+        "Original Prompt": "An orange sports car parked on a road with trees in the background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "An orange sports car parked on a road with a motorcycle parked beside it and trees in the background.",
+                "Delta Prompt": "with a motorcycle parked beside it"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "An orange sports car parked on a road with a scenic mountain visible in the background.",
+                "Delta Prompt": "with a scenic mountain visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "An orange sports car parked on a road with trees in the background, with a cinematic color grading effect.",
+                "Delta Prompt": "with a cinematic color grading effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "An orange sports car parked on a road with a motorcycle beside it, a scenic mountain in the background, and a cinematic color grading effect.",
+                "Delta Prompt": "with a motorcycle beside it, a scenic mountain in the background, and a cinematic color grading effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "An orange sports car parked on a road with trees in the background and a cyclist riding by.",
+                "Delta Prompt": "with a cyclist riding by"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "An orange sports car parked on a road with an open, clear background, free of trees.",
+                "Delta Prompt": "free of trees"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A red sports car parked on a road with trees in the background.",
+                "Delta Prompt": "a red sports car"
+            }
+        ]
+    },
+    {
+        "Video Name": "dCw1p2XkJYA_21_36to153",
+        "Video Type": "Object",
+        "Original Prompt": "A person dressed in a navy cable-knit sweater over a checkered shirt and tie, looking to the side.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A person dressed in a navy cable-knit sweater over a checkered shirt and tie, wearing a stylish fedora, looking to the side.",
+                "Delta Prompt": "wearing a stylish fedora"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A person dressed in a navy cable-knit sweater over a checkered shirt and tie, looking to the side, with a cozy library background.",
+                "Delta Prompt": "with a cozy library background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A person dressed in a navy cable-knit sweater over a checkered shirt and tie, looking to the side, with a vintage sepia-toned effect.",
+                "Delta Prompt": "with a vintage sepia-toned effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A person dressed in a navy cable-knit sweater over a checkered shirt and tie, wearing a stylish fedora, looking to the side, with a cozy library background and a vintage sepia-toned effect.",
+                "Delta Prompt": "wearing a stylish fedora, with a cozy library background and a vintage sepia-toned effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A person dressed in a navy cable-knit sweater over a checkered shirt and tie, looking to the side, with a pair of reading glasses.",
+                "Delta Prompt": "with a pair of reading glasses"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A person dressed in a navy cable-knit sweater without the checkered shirt and tie, looking to the side.",
+                "Delta Prompt": "without the checkered shirt and tie"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A person dressed in a red cable-knit sweater over a checkered shirt and tie, looking to the side.",
+                "Delta Prompt": "red sweater"
+            }
+        ]
+    },
+    {
+        "Video Name": "DymO6Fy4O6s_29_114to369",
+        "Video Type": "Object",
+        "Original Prompt": "A plate of Petai sambal ikan bilis, a spicy dish with green beans and anchovies, garnished with red chilies and served on a white plate.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A plate of Petai sambal ikan bilis with added sliced boiled eggs as garnish.",
+                "Delta Prompt": "with added sliced boiled eggs as garnish"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A plate of Petai sambal ikan bilis on a wooden table with a rustic setting.",
+                "Delta Prompt": "on a wooden table with a rustic setting"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A plate of Petai sambal ikan bilis with a watercolor-style effect.",
+                "Delta Prompt": "with a watercolor-style effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A plate of Petai sambal ikan bilis with sliced boiled eggs as garnish, on a wooden table with a rustic setting and a watercolor-style effect.",
+                "Delta Prompt": "with sliced boiled eggs as garnish, on a wooden table with a rustic setting, and a watercolor-style effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A plate of Petai sambal ikan bilis with a side of steamed rice.",
+                "Delta Prompt": "with a side of steamed rice"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A plate of Petai sambal ikan bilis without the red chili garnish.",
+                "Delta Prompt": "without the red chili garnish"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A plate of Petai sambal with grilled chicken instead of ikan bilis.",
+                "Delta Prompt": "grilled chicken"
+            }
+        ]
+    },
+    {
+        "Video Name": "GnK4WiRlj9w_59_75to209",
+        "Video Type": "Object",
+        "Original Prompt": "The Burj Al Arab hotel illuminated at night, with its iconic sail-shaped structure overlooking the beach and ocean.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "The Burj Al Arab hotel illuminated at night with fireworks in the foreground celebrating a special event.",
+                "Delta Prompt": "with fireworks in the foreground celebrating a special event"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "The Burj Al Arab hotel illuminated at night with a large moon rising in the background.",
+                "Delta Prompt": "with a large moon rising in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "The Burj Al Arab hotel illuminated at night with a neon, cyberpunk-style glow.",
+                "Delta Prompt": "with a neon, cyberpunk-style glow"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "The Burj Al Arab hotel illuminated at night with fireworks in the foreground and a large moon rising in the background.",
+                "Delta Prompt": "with fireworks in the foreground and a large moon rising in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "The Burj Al Arab hotel illuminated at night with luxury yachts anchored in front.",
+                "Delta Prompt": "with luxury yachts anchored in front"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "The Burj Al Arab hotel illuminated at night with no lights on, giving a silhouette view of the structure.",
+                "Delta Prompt": "with no lights on, giving a silhouette view of the structure"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "The Burj Al Arab hotel illuminated at night with a futuristic glass dome instead of the sail shape.",
+                "Delta Prompt": "a futuristic glass dome"
+            }
+        ]
+    },
+    {
+        "Video Name": "hd0946",
+        "Video Type": "Object",
+        "Original Prompt": "Two pink roses floating on calm water, creating gentle ripples around them.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "Two pink roses floating on calm water with a small fish swimming near the roses.",
+                "Delta Prompt": "with a small fish swimming near the roses"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "Two pink roses floating on calm water with a distant mountain range reflected in the background.",
+                "Delta Prompt": "with a distant mountain range reflected in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "Two pink roses floating on calm water with a surreal, pastel-colored sky reflecting on the surface.",
+                "Delta Prompt": "with a surreal, pastel-colored sky reflecting on the surface"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "Two pink roses floating on calm water with a small fish swimming near and a surreal pastel-colored sky reflected on the surface.",
+                "Delta Prompt": "with a small fish swimming near and a surreal pastel-colored sky reflected on the surface"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "Two pink roses floating on calm water with lily pads surrounding them.",
+                "Delta Prompt": "with lily pads surrounding them"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A single pink rose floating on calm water, creating gentle ripples around it.",
+                "Delta Prompt": "remove one of the roses"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "Two lotus flowers floating on calm water, creating gentle ripples around them.",
+                "Delta Prompt": "lotus flowers"
+            }
+        ]
+    },
+    {
+        "Video Name": "I62_m3YdN7s_12_0to232",
+        "Video Type": "Object",
+        "Original Prompt": "A yellow Hummer driving on a city street with modern buildings in the background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A yellow Hummer driving on a city street with large off-road tires.",
+                "Delta Prompt": "with large off-road tires"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A yellow Hummer driving on a city street with mountains visible in the background.",
+                "Delta Prompt": "with mountains visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A yellow Hummer driving on a city street in a vintage, sepia-toned filter.",
+                "Delta Prompt": "in a vintage, sepia-toned filter"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A yellow Hummer driving on a city street with large off-road tires and mountains visible in the background.",
+                "Delta Prompt": "with large off-road tires and mountains visible in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A yellow Hummer driving on a city street with a bicycle mounted on the roof rack.",
+                "Delta Prompt": "with a bicycle mounted on the roof rack"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A yellow Hummer driving on a city street without any other vehicles around.",
+                "Delta Prompt": "without any other vehicles around"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A yellow Jeep Wrangler driving on a city street with modern buildings in the background.",
+                "Delta Prompt": "Jeep Wrangler"
+            }
+        ]
+    },
+    {
+        "Video Name": "koCL0EqXJCQ_45_0to157",
+        "Video Type": "Object",
+        "Original Prompt": "Yellow roses in bloom against a red brick wall with green leaves surrounding them.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "Yellow roses in bloom with butterflies perched on the petals against a red brick wall.",
+                "Delta Prompt": "with butterflies perched on the petals"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "Yellow roses in bloom against a white picket fence with green leaves surrounding them.",
+                "Delta Prompt": "replace red brick wall with white picket fence"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "Yellow roses in bloom against a red brick wall with a soft, dreamy filter effect.",
+                "Delta Prompt": "with a soft, dreamy filter effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "Yellow roses in bloom with butterflies perched on the petals against a white picket fence with a soft, dreamy filter effect.",
+                "Delta Prompt": "with butterflies perched on the petals and a soft, dreamy filter effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "Yellow roses in bloom against a red brick wall with bees buzzing around the flowers.",
+                "Delta Prompt": "with bees buzzing around the flowers"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "Yellow roses in bloom with a clear background, free of any walls or structures.",
+                "Delta Prompt": "clear background, free of any walls or structures"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "Pink roses in bloom against a red brick wall with green leaves surrounding them.",
+                "Delta Prompt": "pink roses"
+            }
+        ]
+    },
+    {
+        "Video Name": "large_1",
+        "Video Type": "Object",
+        "Original Prompt": "SARS-CoV-2 vaccine vials arranged together with labels visible.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "SARS-CoV-2 vaccine vials arranged together with a syringe placed beside them.",
+                "Delta Prompt": "with a syringe placed beside them"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "SARS-CoV-2 vaccine vials arranged together with a medical lab background.",
+                "Delta Prompt": "with a medical lab background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "SARS-CoV-2 vaccine vials arranged together with a soft, clinical lighting effect.",
+                "Delta Prompt": "with a soft, clinical lighting effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "SARS-CoV-2 vaccine vials arranged with a syringe beside them and a medical lab background, illuminated with clinical lighting.",
+                "Delta Prompt": "with a syringe beside them, a medical lab background, and clinical lighting"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "SARS-CoV-2 vaccine vials arranged together with a pair of medical gloves beside them.",
+                "Delta Prompt": "with a pair of medical gloves beside them"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "SARS-CoV-2 vaccine vials arranged together with labels removed.",
+                "Delta Prompt": "with labels removed"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "SARS-CoV-2 vaccine vials arranged with COVID-19 test kits beside them.",
+                "Delta Prompt": "COVID-19 test kits beside them"
+            }
+        ]
+    },
+    {
+        "Video Name": "MVI_2297__Daffodil__Videvo",
+        "Video Type": "Object",
+        "Original Prompt": "A vibrant yellow daffodil in a field of green leaves.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A vibrant yellow daffodil with a butterfly resting on one of its petals in a field of green leaves.",
+                "Delta Prompt": "with a butterfly resting on one of its petals"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A vibrant yellow daffodil in a field of green leaves with a clear blue sky in the background.",
+                "Delta Prompt": "with a clear blue sky in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A vibrant yellow daffodil in a field of green leaves with a soft, dreamy blur effect.",
+                "Delta Prompt": "with a soft, dreamy blur effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A vibrant yellow daffodil with a butterfly resting on one of its petals in a field of green leaves under a soft, dreamy blur effect.",
+                "Delta Prompt": "with a butterfly resting on one of its petals and a soft, dreamy blur effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A vibrant yellow daffodil in a field of green leaves with multiple bees flying around.",
+                "Delta Prompt": "with multiple bees flying around"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A vibrant yellow daffodil in a field of green leaves with all surrounding flowers removed, leaving a solitary daffodil.",
+                "Delta Prompt": "with all surrounding flowers removed"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A vibrant yellow sunflower in a field of green leaves.",
+                "Delta Prompt": "sunflower"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_gardens_videos_44791_007",
+        "Video Type": "Object",
+        "Original Prompt": "Green leaves glistening with raindrops during a light rain shower.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "Green leaves glistening with raindrops during a light rain shower with a small bird perched on a branch.",
+                "Delta Prompt": "with a small bird perched on a branch"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "Green leaves glistening with raindrops during a light rain shower with a misty mountain in the background.",
+                "Delta Prompt": "with a misty mountain in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "Green leaves glistening with raindrops during a light rain shower in a soft, ethereal glow.",
+                "Delta Prompt": "in a soft, ethereal glow"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "Green leaves glistening with raindrops during a light rain shower, with a small bird perched on a branch and a misty mountain in the background.",
+                "Delta Prompt": "with a small bird perched on a branch and a misty mountain in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "Green leaves glistening with raindrops during a light rain shower with several butterflies fluttering around.",
+                "Delta Prompt": "with several butterflies fluttering around"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "Green leaves glistening with raindrops during a light rain shower with all background elements removed, focusing solely on the leaves.",
+                "Delta Prompt": "with all background elements removed"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "Green pine needles glistening with raindrops during a light rain shower.",
+                "Delta Prompt": "pine needles"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_gardens_videos_62740_000",
+        "Video Type": "Object",
+        "Original Prompt": "A field filled with vibrant red poppies swaying in the breeze.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A field filled with vibrant red poppies swaying in the breeze with butterflies fluttering among the flowers.",
+                "Delta Prompt": "with butterflies fluttering among the flowers"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A field filled with vibrant red poppies swaying in the breeze with a distant mountain range in the background.",
+                "Delta Prompt": "with a distant mountain range in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A field filled with vibrant red poppies swaying in the breeze under a warm, golden-hour glow.",
+                "Delta Prompt": "under a warm, golden-hour glow"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A field filled with vibrant red poppies swaying in the breeze, with butterflies fluttering among the flowers and a distant mountain range in the background.",
+                "Delta Prompt": "with butterflies fluttering among the flowers and a distant mountain range in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A field filled with vibrant red poppies swaying in the breeze with bees buzzing around the flowers.",
+                "Delta Prompt": "with bees buzzing around the flowers"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A field filled with vibrant red poppies swaying in the breeze with all other types of plants removed, showing only poppies.",
+                "Delta Prompt": "with all other types of plants removed"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A field filled with yellow sunflowers swaying in the breeze.",
+                "Delta Prompt": "yellow sunflowers"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_natural_wonders_natural_wonders_4887279_001",
+        "Video Type": "Object",
+        "Original Prompt": "A field filled with tall purple flowers swaying gently in the breeze.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A field filled with tall purple flowers swaying gently in the breeze, with butterflies flying among the flowers.",
+                "Delta Prompt": "with butterflies flying among the flowers"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A field filled with tall purple flowers swaying gently in the breeze, with a dense forest in the background.",
+                "Delta Prompt": "with a dense forest in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A field filled with tall purple flowers swaying gently in the breeze, under a soft, misty morning light.",
+                "Delta Prompt": "under a soft, misty morning light"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A field filled with tall purple flowers swaying gently in the breeze, with butterflies flying among the flowers and a dense forest in the background.",
+                "Delta Prompt": "with butterflies flying among the flowers and a dense forest in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A field filled with tall purple flowers swaying gently in the breeze, with bees buzzing around the flowers.",
+                "Delta Prompt": "with bees buzzing around the flowers"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A field filled with tall purple flowers swaying gently in the breeze, with all other plants removed to focus solely on the purple flowers.",
+                "Delta Prompt": "with all other plants removed to focus solely on the purple flowers"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A field filled with tall yellow sunflowers swaying gently in the breeze.",
+                "Delta Prompt": "yellow sunflowers"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_natural_wonders_videos_23955_002",
+        "Video Type": "Object",
+        "Original Prompt": "A stream of tea being poured into a clear glass cup placed on a tray.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A stream of tea being poured into a clear glass cup with a lemon slice floating in the tea.",
+                "Delta Prompt": "with a lemon slice floating in the tea"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A stream of tea being poured into a clear glass cup placed on a tray with a window and greenery visible in the background.",
+                "Delta Prompt": "with a window and greenery visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A stream of tea being poured into a clear glass cup with a vintage, sepia-toned effect.",
+                "Delta Prompt": "with a vintage, sepia-toned effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A stream of tea being poured into a clear glass cup with a lemon slice floating in the tea and a window with greenery visible in the background.",
+                "Delta Prompt": "with a lemon slice floating in the tea and a window with greenery visible in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A stream of tea being poured into a clear glass cup with honey being drizzled into the tea simultaneously.",
+                "Delta Prompt": "with honey being drizzled into the tea simultaneously"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A stream of tea being poured into a clear glass cup placed on a tray, with all background elements removed to keep focus solely on the cup and tea stream.",
+                "Delta Prompt": "all background elements removed to keep focus solely on the cup and tea stream"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A stream of coffee being poured into a clear glass cup placed on a tray.",
+                "Delta Prompt": "tea with coffee"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_Prairie_Paths_88643_000",
+        "Video Type": "Object",
+        "Original Prompt": "Purple flowers growing alongside a wooden railing on a bridge or pathway.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "Purple flowers and a few butterflies hovering above them, growing alongside a wooden railing on a bridge or pathway.",
+                "Delta Prompt": "and a few butterflies hovering above them"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "Purple flowers growing alongside a wooden railing on a bridge with a mountain range visible in the distant background.",
+                "Delta Prompt": "with a mountain range visible in the distant background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "Purple flowers growing alongside a wooden railing on a bridge with a soft, watercolor painting effect.",
+                "Delta Prompt": "with a soft, watercolor painting effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "Purple flowers with butterflies hovering above them, growing alongside a wooden railing on a bridge with a mountain range visible in the background and a soft, watercolor painting effect.",
+                "Delta Prompt": "with butterflies hovering above them, a mountain range visible in the background, and a soft, watercolor painting effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "Purple flowers growing alongside a wooden railing on a bridge with a small bird perched on the railing.",
+                "Delta Prompt": "with a small bird perched on the railing"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "Purple flowers growing alongside a wooden railing on a bridge, with the railing removed to focus solely on the flowers.",
+                "Delta Prompt": "with the railing removed"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "Yellow wildflowers growing alongside a wooden railing on a bridge or pathway.",
+                "Delta Prompt": "yellow wildflowers"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_Spring_Blossoms_158787_020",
+        "Video Type": "Object",
+        "Original Prompt": "Cherry blossom branches in bloom overhanging a serene river with a natural landscape.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "Cherry blossom branches in bloom with small birds perched on them, overhanging a serene river with a natural landscape.",
+                "Delta Prompt": "with small birds perched on the branches"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "Cherry blossom branches in bloom overhanging a serene river with a mountain range visible in the distant background.",
+                "Delta Prompt": "with a mountain range visible in the distant background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "Cherry blossom branches in bloom overhanging a serene river, with a soft pastel painting effect.",
+                "Delta Prompt": "with a soft pastel painting effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "Cherry blossom branches in bloom with small birds perched on them, overhanging a serene river with a mountain range visible in the background and a soft pastel painting effect.",
+                "Delta Prompt": "with small birds perched on the branches, a mountain range in the background, and a soft pastel painting effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "Cherry blossom branches in bloom overhanging a serene river with koi fish visible in the water below.",
+                "Delta Prompt": "with koi fish visible in the water below"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "Cherry blossom branches in bloom overhanging a serene river with the dry grass in the foreground removed to create a cleaner view.",
+                "Delta Prompt": "with the dry grass in the foreground removed"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "Peach blossom branches in bloom overhanging a serene river with a natural landscape.",
+                "Delta Prompt": "peach blossoms"
+            }
+        ]
+    },
+    {
+        "Video Name": "tomatoes",
+        "Video Type": "Object",
+        "Original Prompt": "Tomatoes in various stages of ripeness growing on a vine.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "Tomatoes in various stages of ripeness growing on a vine, with a butterfly perched on one of the tomatoes.",
+                "Delta Prompt": "with a butterfly perched on one of the tomatoes"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "Tomatoes in various stages of ripeness growing on a vine, with a rustic wooden fence in the background.",
+                "Delta Prompt": "with a rustic wooden fence in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "Tomatoes in various stages of ripeness growing on a vine, with a vintage film grain effect.",
+                "Delta Prompt": "with a vintage film grain effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "Tomatoes in various stages of ripeness growing on a vine, with a butterfly perched on one of the tomatoes and a rustic wooden fence in the background, all in a vintage film grain effect.",
+                "Delta Prompt": "with a butterfly perched on one of the tomatoes, a rustic wooden fence in the background, and a vintage film grain effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "Tomatoes in various stages of ripeness growing on a vine, with small dewdrops on the tomatoes.",
+                "Delta Prompt": "with small dewdrops on the tomatoes"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "Tomatoes in various stages of ripeness growing on a vine, with the leaves removed to reveal only the fruit and vine.",
+                "Delta Prompt": "with the leaves removed to reveal only the fruit and vine"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "Green bell peppers in various stages of ripeness growing on a vine.",
+                "Delta Prompt": "green bell peppers"
+            }
+        ]
+    },
+    {
+        "Video Name": "UfU-xlvct8k_8_0to109",
+        "Video Type": "Object",
+        "Original Prompt": "A black protective glove with reinforced knuckles.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A black protective glove with reinforced knuckles, with a small logo on the back of the hand.",
+                "Delta Prompt": "with a small logo on the back of the hand"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A black protective glove with reinforced knuckles, displayed against a rugged, industrial background.",
+                "Delta Prompt": "displayed against a rugged, industrial background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A black protective glove with reinforced knuckles, presented in a metallic, high-tech design style.",
+                "Delta Prompt": "presented in a metallic, high-tech design style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A black protective glove with reinforced knuckles, with a small logo on the back of the hand and displayed against a rugged, industrial background in a high-tech design style.",
+                "Delta Prompt": "with a small logo on the back of the hand, displayed against a rugged, industrial background, in a high-tech design style"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A black protective glove with reinforced knuckles, with a red LED light strip embedded along the knuckles.",
+                "Delta Prompt": "with a red LED light strip embedded along the knuckles"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A black protective glove with reinforced knuckles, without any logo or branding on it.",
+                "Delta Prompt": "without any logo or branding on it"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A black protective glove with reinforced knuckles, with the knuckle reinforcement replaced by carbon fiber plates.",
+                "Delta Prompt": "carbon fiber plates"
+            }
+        ]
+    },
+    {
+        "Video Name": "ZiLVwZmez-M_37_0to218",
+        "Video Type": "Object",
+        "Original Prompt": "A stuffed acorn squash with a drizzle of sauce on top, placed on a white square plate.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A stuffed acorn squash with a drizzle of sauce and a sprinkle of pomegranate seeds on top, placed on a white square plate.",
+                "Delta Prompt": "a sprinkle of pomegranate seeds on top"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A stuffed acorn squash with a drizzle of sauce on top, placed on a white square plate with a rustic wooden table in the background.",
+                "Delta Prompt": "a rustic wooden table in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A stuffed acorn squash with a drizzle of sauce on top, presented with a warm, vintage filter effect.",
+                "Delta Prompt": "presented with a warm, vintage filter effect"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A stuffed acorn squash with a drizzle of sauce and pomegranate seeds on top, placed on a white square plate with a rustic wooden table in the background and a warm, vintage filter effect.",
+                "Delta Prompt": "pomegranate seeds on top, rustic wooden table in the background, and a warm, vintage filter effect"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Addition",
+                "Full Prompt": "A stuffed acorn squash with a drizzle of sauce, topped with fresh herbs and edible flowers, placed on a white square plate.",
+                "Delta Prompt": "topped with fresh herbs and edible flowers"
+            },
+            { 
+                "Editing Type": "Removal",
+                "Full Prompt": "A stuffed acorn squash with a drizzle of sauce, placed on a white square plate without any garnish or topping.",
+                "Delta Prompt": "without any garnish or topping"
+            },
+            { 
+                "Editing Type": "Replacement",
+                "Full Prompt": "A stuffed acorn squash with a drizzle of honey instead of sauce, placed on a white square plate.",
+                "Delta Prompt": "honey"
+            }
+        ]
+    }
+]

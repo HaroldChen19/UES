@@ -1,0 +1,1454 @@
+[
+    {
+        "Video Name": "-Usp8dKcT3E_30_0to451",
+        "Video Type": "Environment",
+        "Original Prompt": "A coastal featuring a rocky cliff overlooking the ocean, with waves crashing onto the beach.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A coastal featuring a rocky cliff overlooking the ocean, with a large boat sailing near the cliff.",
+                "Delta Prompt": "a large boat sailing near the cliff"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A coastal featuring a rocky cliff overlooking the ocean, with a distant city skyline on the horizon.",
+                "Delta Prompt": "a distant city skyline on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A coastal featuring a rocky cliff overlooking the ocean, with fog rolling over the mountains.",
+                "Delta Prompt": "fog rolling over the mountains"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A coastal featuring a rocky cliff overlooking the ocean, with a large boat sailing near the cliff and fog rolling over the mountains.",
+                "Delta Prompt": "a large boat sailing near the cliff and fog rolling over the mountains."
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A coastal featuring a rocky cliff overlooking the ocean, with dark clouds and heavy rain.",
+                "Delta Prompt": "dark clouds and heavy rain."
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A coastal featuring a rocky cliff overlooking the ocean at sunset with warm orange and pink tones.",
+                "Delta Prompt": "warm orange and pink tones"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A coastal featuring a rocky cliff overlooking the ocean, with a forest covering the mountains in the background.",
+                "Delta Prompt": "a forest covering the mountains in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "1",
+        "Video Type": "Environment",
+        "Original Prompt": "A field with tall grass under a bright blue sky, featuring a single tree in the distance and partial shade from overhead branches.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A group of deer grazing in the field under a bright blue sky.",
+                "Delta Prompt": "A group of deer grazing"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A field with tall grass under a bright blue sky, with mountains visible in the distance.",
+                "Delta Prompt": "Mountains visible in the distance"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A field with tall grass under a moody, cloudy sky, featuring a single tree in the distance.",
+                "Delta Prompt": "A moody, cloudy sky"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A field with tall grass under a bright blue sky, featuring the tree in the distance and a windmill nearby.",
+                "Delta Prompt": "A windmill nearby"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A field with tall grass during a light rain under a cloudy sky, with raindrops hitting the ground.",
+                "Delta Prompt": "Light rain and a cloudy sky"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A field with tall grass during sunset, with golden hues filling the sky and the sun setting behind the tree.",
+                "Delta Prompt": "During sunset with golden hues"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A field with tall grass under a bright blue sky, with a large lake in the background.",
+                "Delta Prompt": "A large lake in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "2",
+        "Video Type": "Environment",
+        "Original Prompt": "A coastal scene featuring waves rolling toward the shore with rocks and distant hills visible under a clear sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A surfer riding the waves near the shore under a clear sky.",
+                "Delta Prompt": "A surfer riding the waves"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A coastal scene featuring waves, with a city skyline visible along the distant hills.",
+                "Delta Prompt": "A city skyline along the distant hills"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A coastal scene featuring waves under a dramatic stormy sky with dark clouds.",
+                "Delta Prompt": "A dramatic stormy sky with dark clouds"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A coastal scene featuring waves and cliffs, with dolphins jumping in the water.",
+                "Delta Prompt": "Dolphins jumping in the water"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A coastal scene during a light drizzle with rain falling on the waves.",
+                "Delta Prompt": "Light drizzle and rain on the waves"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A coastal scene at sunset with the waves reflecting orange and pink hues from the sky.",
+                "Delta Prompt": "At sunset with orange and pink hues"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A coastal scene with large rocky cliffs visible in the background.",
+                "Delta Prompt": "Large rocky cliffs in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "3",
+        "Video Type": "Environment",
+        "Original Prompt": "A close-up of a fresh green plant stem with multiple buds and young leaves, set against a plain dark background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A close-up of a fresh green plant stem with multiple buds and young leaves, with a small butterfly perched on one of the leaves, set against a plain dark background.",
+                "Delta Prompt": "a small butterfly perched on one of the leaves"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A close-up of a fresh green plant stem with multiple buds and young leaves, set against a soft gradient background transitioning from dark to light.",
+                "Delta Prompt": "a soft gradient background transitioning from dark to light"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A close-up of a fresh green plant stem with multiple buds and young leaves, illustrated in a watercolor style, set against a plain dark background.",
+                "Delta Prompt": "illustrated in a watercolor style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A close-up of a fresh green plant stem with multiple buds and young leaves, with a small butterfly perched on one leaf and a soft gradient background transitioning from dark to light.",
+                "Delta Prompt": "a small butterfly perched on one leaf and a soft gradient background transitioning from dark to light"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A close-up of a fresh green plant stem with multiple buds and young leaves, with water droplets on the leaves as if after a light rain, set against a plain dark background.",
+                "Delta Prompt": "water droplets on the leaves as if after a light rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A close-up of a fresh green plant stem with multiple buds and young leaves, illuminated with a warm golden light as if at sunrise, set against a plain dark background.",
+                "Delta Prompt": "illuminated with a warm golden light as if at sunrise"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A close-up of a fresh green plant stem with multiple buds and young leaves, set against a red background.",
+                "Delta Prompt": "red background"
+            }
+        ]
+    },
+    {
+        "Video Name": "3d_ocean_1590675653",
+        "Video Type": "Environment",
+        "Original Prompt": "An open ocean with gentle waves under a clear blue sky with scattered clouds.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "An open ocean with gentle waves under a clear blue sky with scattered clouds, and a seagull flying near the water surface.",
+                "Delta Prompt": "a seagull flying near the water surface"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "An open ocean with gentle waves under a clear blue sky with scattered clouds, with a distant island visible on the horizon.",
+                "Delta Prompt": "a distant island visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "An open ocean with gentle waves under a clear blue sky with scattered clouds, in a watercolor painting style.",
+                "Delta Prompt": "in a watercolor painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "An open ocean with gentle waves under a clear blue sky with scattered clouds, with a sailboat and a distant island on the horizon.",
+                "Delta Prompt": "a sailboat and a distant island on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "An open ocean with gentle waves under a cloudy sky with light rain.",
+                "Delta Prompt": "a cloudy sky with light rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "An open ocean with gentle waves under a sunset sky with warm orange and pink tones.",
+                "Delta Prompt": "a sunset sky with warm orange and pink tones"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "An open ocean with gentle waves under a clear blue sky with scattered clouds, with a mountainous coastline in the background.",
+                "Delta Prompt": "a mountainous coastline in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "4",
+        "Video Type": "Environment",
+        "Original Prompt": "A snow-capped mountain peak under a clear blue sky, with a blanket of clouds covering the lower slopes.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A volcano under a clear blue sky, with a blanket of clouds covering the lower slopes.",
+                "Delta Prompt": "a volcano"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A snow-capped mountain peak under a dark sky, with a blanket of clouds covering the lower slopes.",
+                "Delta Prompt": "a dark sky"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A snow-capped mountain peak under a clear blue sky, with a blanket of clouds covering the lower slopes, in a oil painting style.",
+                "Delta Prompt": "oil painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A game style mountain peak under a dark sky, with a blanket of clouds covering the lower slopes.",
+                "Delta Prompt": "dark sky, game style mountain"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A snow-capped mountain peak under a stormy sky with dark clouds and lightning, with a blanket of clouds covering the lower slopes.",
+                "Delta Prompt": "a stormy sky with dark clouds and lightning"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A snow-capped mountain peak at sunrise, with a pink and orange sky and a blanket of clouds covering the lower slopes.",
+                "Delta Prompt": "a pink and orange sky at sunrise"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A snow-capped mountain peak under a clear blue sky, with a forest visible below the blanket of clouds on the lower slopes.",
+                "Delta Prompt": "a forest visible below the blanket of clouds on the lower slopes"
+            }
+        ]
+    },
+    {
+        "Video Name": "3313_rain_raining_rain_drops_RaindropsVidevo720p5000br",
+        "Video Type": "Environment",
+        "Original Prompt": "A rainy scene in a lush green park with large trees, where raindrops create ripples on a wet pathway.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A rainy scene in a lush green park with large trees, where raindrops create ripples on a wet pathway, with a small bird hopping near the puddles.",
+                "Delta Prompt": "a small bird hopping near the puddles"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A rainy scene in a lush green park with large trees, where raindrops create ripples on a wet pathway, with a gazebo visible in the background.",
+                "Delta Prompt": "a gazebo visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A rainy scene in a lush green park with large trees, where raindrops create ripples on a wet pathway, in an impressionist painting style.",
+                "Delta Prompt": "in an impressionist painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A rainy scene in a lush green park with large trees, where raindrops create ripples on a wet pathway, with a small bird hopping near the puddles and a gazebo visible in the background.",
+                "Delta Prompt": "a small bird hopping near the puddles and a gazebo visible in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A misty scene in a lush green park with large trees, where raindrops create ripples on a wet pathway under light drizzle.",
+                "Delta Prompt": "light drizzle creating a misty atmosphere"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "An early morning scene in a lush green park with large trees, where raindrops create ripples on a wet pathway, with soft sunlight filtering through the trees.",
+                "Delta Prompt": "soft sunlight filtering through the trees in early morning"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A rainy scene in a lush green park with large trees, where raindrops create ripples on a wet pathway, with a dense forest in the background.",
+                "Delta Prompt": "a dense forest in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "3902_contrail_contrails_plane_planeinsky720p5000br",
+        "Video Type": "Environment",
+        "Original Prompt": "A high-altitude sky with a jet leaving a contrail across a backdrop of light clouds.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A high-altitude sky with a jet leaving a contrail across a backdrop of light clouds, with a flock of birds flying nearby.",
+                "Delta Prompt": "a flock of birds flying nearby"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A high-altitude sky with a jet leaving a contrail across a backdrop of light clouds, with a distant mountain peak visible below.",
+                "Delta Prompt": "a distant mountain peak visible below"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A high-altitude sky with a jet leaving a contrail across a backdrop of light clouds, in a vintage film style.",
+                "Delta Prompt": "in a vintage film style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A high-altitude sky with a jet leaving a contrail across a backdrop of light clouds, with a flock of birds flying nearby and a distant mountain peak below.",
+                "Delta Prompt": "a flock of birds flying nearby and a distant mountain peak below"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A high-altitude sky with a jet leaving a contrail across a backdrop of dark storm clouds.",
+                "Delta Prompt": "a backdrop of dark storm clouds"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A high-altitude sky with a jet leaving a contrail during sunset, with orange and pink hues lighting up the clouds.",
+                "Delta Prompt": "orange and pink hues lighting up the clouds during sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A high-altitude sky with a jet leaving a contrail across a backdrop of light clouds, with a large full moon visible in the background.",
+                "Delta Prompt": "a large full moon visible in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "4111_sun_sunset_sundown_beach11720p5000br",
+        "Video Type": "Environment",
+        "Original Prompt": "A vibrant sunset sky filled with scattered clouds illuminated in warm orange and pink hues, with the sun visible near the horizon.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A vibrant sunset sky filled with scattered clouds illuminated in warm orange and pink hues, with the sun visible near the horizon, and a flock of birds flying across.",
+                "Delta Prompt": "a flock of birds flying across"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A vibrant sunset sky filled with scattered clouds illuminated in warm orange and pink hues, with the sun visible near the horizon, with distant mountains silhouetted against the sky.",
+                "Delta Prompt": "distant mountains silhouetted against the sky"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A vibrant sunset sky filled with scattered clouds illuminated in warm orange and pink hues, with the sun visible near the horizon, in a surreal, dreamlike painting style.",
+                "Delta Prompt": "in a surreal, dreamlike painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A vibrant sunset sky filled with scattered clouds illuminated in warm orange and pink hues, with the sun visible near the horizon, a flock of birds flying across, and distant mountains silhouetted against the sky.",
+                "Delta Prompt": "a flock of birds flying across and distant mountains silhouetted against the sky"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A sunset sky filled with scattered clouds darkened by an approaching storm, with the sun partially obscured.",
+                "Delta Prompt": "scattered clouds darkened by an approaching storm"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A vibrant dawn sky filled with scattered clouds illuminated in soft pastel colors, with the sun just beginning to rise over the horizon.",
+                "Delta Prompt": "soft pastel colors with the sun just beginning to rise"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A vibrant sunset sky filled with scattered clouds illuminated in warm orange and pink hues, with the sun visible near the horizon, and a city skyline silhouetted in the background.",
+                "Delta Prompt": "a city skyline silhouetted in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "5358_Fireworks_Guy_Fawkes_explode_Fireworks1346720p5000br",
+        "Video Type": "Environment",
+        "Original Prompt": "A night sky filled with vibrant fireworks bursting in white and green lights.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A night sky filled with vibrant fireworks bursting in white and green lights, with a silhouette of a crowd watching below.",
+                "Delta Prompt": "a silhouette of a crowd watching below"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A night sky filled with vibrant fireworks bursting in white and green lights, with a city skyline visible in the distance.",
+                "Delta Prompt": "a city skyline visible in the distance"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A night sky filled with vibrant fireworks bursting in white and green lights, in a neon, futuristic style.",
+                "Delta Prompt": "in a neon, futuristic style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A night sky filled with vibrant fireworks bursting in white and green lights, with a silhouette of a crowd watching below and a city skyline visible in the distance.",
+                "Delta Prompt": "a silhouette of a crowd watching below and a city skyline visible in the distance"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A night sky filled with vibrant fireworks bursting in white and green lights, with a light drizzle adding a hazy effect.",
+                "Delta Prompt": "a light drizzle adding a hazy effect"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "An evening sky just after sunset, filled with vibrant fireworks bursting in white and green lights.",
+                "Delta Prompt": "an evening sky just after sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A night sky filled with vibrant fireworks bursting in white and green lights, with distant mountains silhouetted in the background.",
+                "Delta Prompt": "distant mountains silhouetted in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "181015_12a_Venice Beach_010",
+        "Video Type": "Environment",
+        "Original Prompt": "A beach at sunset with silhouettes of tall palm trees against a warm sky, and people gathered in the distance.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A beach at sunset with silhouettes of tall palm trees against a warm sky, with a surfer carrying a board walking along the shore.",
+                "Delta Prompt": "a surfer carrying a board walking along the shore"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A beach at sunset with silhouettes of tall palm trees against a warm sky, with distant mountains visible on the horizon.",
+                "Delta Prompt": "distant mountains visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A beach at sunset with silhouettes of tall palm trees against a warm sky, in a vintage film style with grainy texture.",
+                "Delta Prompt": "in a vintage film style with grainy texture"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A beach at sunset with silhouettes of tall palm trees against a warm sky, with a surfer carrying a board and distant mountains on the horizon.",
+                "Delta Prompt": "a surfer carrying a board and distant mountains on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A beach at sunset with silhouettes of tall palm trees against a warm sky, with a light mist creating a hazy atmosphere.",
+                "Delta Prompt": "a light mist creating a hazy atmosphere"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A beach in the early morning with silhouettes of tall palm trees against a soft pastel sky, with the sun just rising.",
+                "Delta Prompt": "a soft pastel sky with the sun just rising"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A beach at sunset with silhouettes of tall palm trees against a warm sky, with a boardwalk and buildings visible in the background.",
+                "Delta Prompt": "a boardwalk and buildings visible in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "190915_B_02_HaLong_11",
+        "Video Type": "Environment",
+        "Original Prompt": "A scenic river surrounded by tall, lush green cliffs, with kayakers paddling through calm water.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A scenic river surrounded by tall, lush green cliffs, with kayakers paddling through calm water, and a heron standing on a rock near the shore.",
+                "Delta Prompt": "a heron standing on a rock near the shore"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A scenic river surrounded by tall, lush green cliffs, with kayakers paddling through calm water, and a waterfall cascading down one of the cliffs.",
+                "Delta Prompt": "a waterfall cascading down one of the cliffs"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A scenic river surrounded by tall, lush green cliffs, with kayakers paddling through calm water, in a hand-painted watercolor style.",
+                "Delta Prompt": "in a hand-painted watercolor style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A scenic river surrounded by tall, lush green cliffs, with kayakers paddling through calm water, a heron standing on a rock, and a waterfall cascading down one of the cliffs.",
+                "Delta Prompt": "a heron standing on a rock and a waterfall cascading down one of the cliffs"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A scenic river surrounded by tall, lush green cliffs, with kayakers paddling through calm water under a light drizzle.",
+                "Delta Prompt": "a light drizzle"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A scenic river surrounded by tall, lush green cliffs, with kayakers paddling through calm water in the early morning, with soft mist rising from the river.",
+                "Delta Prompt": "soft mist rising from the river in the early morning"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A scenic river surrounded by tall, lush green cliffs, with kayakers paddling through calm water, with distant mountain peaks visible beyond the cliffs.",
+                "Delta Prompt": "distant mountain peaks visible beyond the cliffs"
+            }
+        ]
+    },
+    {
+        "Video Name": "Blue_Sky_and_Clouds_Timelapse_0892__Videvo",
+        "Video Type": "Environment",
+        "Original Prompt": "A clear blue sky with scattered fluffy white clouds.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A clear blue sky with scattered fluffy white clouds, with a hot air balloon floating among the clouds.",
+                "Delta Prompt": "a hot air balloon floating among the clouds"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A clear blue sky with scattered fluffy white clouds, with a distant mountain range visible below.",
+                "Delta Prompt": "a distant mountain range visible below"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A clear blue sky with scattered fluffy white clouds, in a vintage postcard style with faded colors.",
+                "Delta Prompt": "in a vintage postcard style with faded colors"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A clear blue sky with scattered fluffy white clouds, with a hot air balloon floating among the clouds and a distant mountain range below.",
+                "Delta Prompt": "a hot air balloon floating among the clouds and a distant mountain range below"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A clear blue sky with scattered fluffy white clouds, with light rain falling.",
+                "Delta Prompt": "light rain falling"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "An evening sky with scattered fluffy clouds, with a warm orange and pink glow from the setting sun.",
+                "Delta Prompt": "a warm orange and pink glow from the setting sun"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A clear blue sky with scattered fluffy white clouds, with a city skyline visible on the horizon.",
+                "Delta Prompt": "a city skyline visible on the horizon"
+            }
+        ]
+    },
+    {
+        "Video Name": "Earth Zoom Slow-Stock Video",
+        "Video Type": "Environment",
+        "Original Prompt": "A view of Earth from space, showing North America, surrounded by a vast black expanse of space and scattered stars.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A view of Earth from space, showing North America, with a satellite orbiting nearby against a backdrop of stars.",
+                "Delta Prompt": "a satellite orbiting nearby"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A view of Earth from space, showing North America, with the Milky Way galaxy visible in the distant background.",
+                "Delta Prompt": "the Milky Way galaxy visible in the distant background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A view of Earth from space, showing North America, in a vintage sci-fi illustration style.",
+                "Delta Prompt": "in a vintage sci-fi illustration style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A view of Earth from space, showing North America, with a satellite orbiting nearby and the Milky Way galaxy in the background.",
+                "Delta Prompt": "a satellite orbiting nearby and the Milky Way galaxy in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A view of Earth from space, showing North America, with swirling clouds indicating a hurricane over the Atlantic Ocean.",
+                "Delta Prompt": "swirling clouds indicating a hurricane over the Atlantic Ocean"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A view of Earth from space, showing North America at night, with city lights illuminating the continent.",
+                "Delta Prompt": "city lights illuminating the continent at night"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A view of Earth from space, showing North America, with the moon visible in the background.",
+                "Delta Prompt": "the moon visible in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "MelbourneCBDSkylineH264",
+        "Video Type": "Environment",
+        "Original Prompt": "A wide pathway in a park leading toward a modern city skyline under a clear blue sky, with trees and grass on either side.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A wide pathway in a park leading toward a modern city skyline under a clear blue sky, with trees and grass on either side, and a cyclist riding along the path.",
+                "Delta Prompt": "a cyclist riding along the path"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A wide pathway in a park leading toward a modern city skyline under a clear blue sky, with trees and grass on either side, with distant mountains visible beyond the city.",
+                "Delta Prompt": "distant mountains visible beyond the city"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A wide pathway in a park leading toward a modern city skyline under a clear blue sky, with trees and grass on either side, in a minimalist, flat color illustration style.",
+                "Delta Prompt": "in a minimalist, flat color illustration style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A wide pathway in a park leading toward a modern city skyline under a clear blue sky, with trees and grass on either side, with a cyclist riding along the path and distant mountains visible beyond the city.",
+                "Delta Prompt": "a cyclist riding along the path and distant mountains visible beyond the city"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A wide pathway in a park leading toward a modern city skyline under overcast skies, with trees and grass on either side and a light drizzle.",
+                "Delta Prompt": "overcast skies and a light drizzle"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A wide pathway in a park leading toward a modern city skyline during sunset, with warm orange and pink hues lighting up the sky.",
+                "Delta Prompt": "warm orange and pink hues lighting up the sky during sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A wide pathway in a park leading toward a modern city skyline under a clear blue sky, with trees and grass on either side, with a large lake visible beyond the city.",
+                "Delta Prompt": "a large lake visible beyond the city"
+            }
+        ]
+    },
+    {
+        "Video Name": "mixkit_sea_mixkit-panoramic-aerial-view-of-a-sunny-mountainous-coastline-50222_005",
+        "Video Type": "Environment",
+        "Original Prompt": "A coastal desert landscape with rocky cliffs and sandy beaches along a calm, turquoise bay, surrounded by arid hills and mountains.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A coastal desert landscape with rocky cliffs and sandy beaches along a calm, turquoise bay, surrounded by arid hills and mountains, with a small boat anchored near the shore.",
+                "Delta Prompt": "a small boat anchored near the shore"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A coastal desert landscape with rocky cliffs and sandy beaches along a calm, turquoise bay, surrounded by arid hills and mountains, with a distant city skyline on the horizon.",
+                "Delta Prompt": "a distant city skyline on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A coastal desert landscape with rocky cliffs and sandy beaches along a calm, turquoise bay, surrounded by arid hills and mountains, in a watercolor painting style.",
+                "Delta Prompt": "in a watercolor painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A coastal desert landscape with rocky cliffs and sandy beaches along a calm, turquoise bay, surrounded by arid hills and mountains, with a small boat anchored near the shore and a distant city skyline on the horizon.",
+                "Delta Prompt": "a small boat anchored near the shore and a distant city skyline on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A coastal desert landscape with rocky cliffs and sandy beaches along a calm, turquoise bay, surrounded by arid hills and mountains, under a cloudy sky with light rain.",
+                "Delta Prompt": "a cloudy sky with light rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A coastal desert landscape with rocky cliffs and sandy beaches along a calm, turquoise bay, surrounded by arid hills and mountains, at sunset with warm orange and pink tones.",
+                "Delta Prompt": "warm orange and pink tones at sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A coastal desert landscape with rocky cliffs and sandy beaches along a calm, turquoise bay, surrounded by arid hills and mountains, with a dense forest visible in the distance.",
+                "Delta Prompt": "a dense forest visible in the distance"
+            }
+        ]
+    },
+    {
+        "Video Name": "MVI_1482",
+        "Video Type": "Environment",
+        "Original Prompt": "A serene lake at sunset with a colorful sky fading from pink to deep blue, reflecting on the calm water surface.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A serene lake at sunset with a colorful sky fading from pink to deep blue, reflecting on the calm water surface, with a small boat floating near the shore.",
+                "Delta Prompt": "a small boat floating near the shore"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A serene lake at sunset with a colorful sky fading from pink to deep blue, reflecting on the calm water surface, with a distant forest visible along the horizon.",
+                "Delta Prompt": "a distant forest visible along the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A serene lake at sunset with a colorful sky fading from pink to deep blue, reflecting on the calm water surface, in an impressionist painting style.",
+                "Delta Prompt": "in an impressionist painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A serene lake at sunset with a colorful sky fading from pink to deep blue, reflecting on the calm water surface, with a small boat floating near the shore and a distant forest visible along the horizon.",
+                "Delta Prompt": "a small boat floating near the shore and a distant forest visible along the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A serene lake at sunset with a colorful sky fading from pink to deep blue, reflecting on the calm water surface, with light fog rolling over the water.",
+                "Delta Prompt": "light fog rolling over the water"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A serene lake at dawn with a soft pastel sky fading from purple to orange, reflecting on the calm water surface.",
+                "Delta Prompt": "a soft pastel sky fading from purple to orange at dawn"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A serene lake at sunset with a colorful sky fading from pink to deep blue, reflecting on the calm water surface, with distant mountains visible on the horizon.",
+                "Delta Prompt": "distant mountains visible on the horizon"
+            }
+        ]
+    },
+    {
+        "Video Name": "pexels_landscape_landscape_5192721_001",
+        "Video Type": "Environment",
+        "Original Prompt": "A coastal beach scene with gentle waves rolling onto a sandy shore, a small town visible in the distance, and clear blue skies overhead.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A coastal beach scene with gentle waves rolling onto a sandy shore, a small town visible in the distance, and clear blue skies overhead, with a surfer riding a wave close to the shore.",
+                "Delta Prompt": "a surfer riding a wave close to the shore"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A coastal beach scene with gentle waves rolling onto a sandy shore, a small town visible in the distance, and clear blue skies overhead, with a lighthouse on a cliff in the background.",
+                "Delta Prompt": "a lighthouse on a cliff in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A coastal beach scene with gentle waves rolling onto a sandy shore, a small town visible in the distance, and clear blue skies overhead, in a vibrant, high-contrast color style.",
+                "Delta Prompt": "in a vibrant, high-contrast color style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A coastal beach scene with gentle waves rolling onto a sandy shore, a small town visible in the distance, and clear blue skies overhead, with a surfer riding a wave and a lighthouse on a cliff in the background.",
+                "Delta Prompt": "a surfer riding a wave and a lighthouse on a cliff in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A coastal beach scene with gentle waves rolling onto a sandy shore, a small town visible in the distance, with overcast skies and light rain.",
+                "Delta Prompt": "overcast skies and light rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A coastal beach scene with gentle waves rolling onto a sandy shore, a small town visible in the distance, at sunset with warm orange and pink tones lighting up the sky.",
+                "Delta Prompt": "warm orange and pink tones lighting up the sky at sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A coastal beach scene with gentle waves rolling onto a sandy shore, a small town visible in the distance, with mountains rising in the background.",
+                "Delta Prompt": "mountains rising in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "pexels_landscape_landscape_5341746_008",
+        "Video Type": "Environment",
+        "Original Prompt": "A moody coastline with waves crashing onto a rocky and grassy shoreline under overcast skies.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A moody coastline with waves crashing onto a rocky and grassy shoreline under overcast skies, with a lone seagull standing on the rocks.",
+                "Delta Prompt": "a lone seagull standing on the rocks"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A moody coastline with waves crashing onto a rocky and grassy shoreline under overcast skies, with distant cliffs visible along the horizon.",
+                "Delta Prompt": "distant cliffs visible along the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A moody coastline with waves crashing onto a rocky and grassy shoreline under overcast skies, in a dark, dramatic, and high-contrast style.",
+                "Delta Prompt": "in a dark, dramatic, and high-contrast style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A moody coastline with waves crashing onto a rocky and grassy shoreline under overcast skies, with a lone seagull standing on the rocks and distant cliffs along the horizon.",
+                "Delta Prompt": "a lone seagull standing on the rocks and distant cliffs along the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A moody coastline with waves crashing onto a rocky and grassy shoreline under stormy skies with heavy rain.",
+                "Delta Prompt": "stormy skies with heavy rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A moody coastline with waves crashing onto a rocky and grassy shoreline during dawn, with a faint pink glow in the sky.",
+                "Delta Prompt": "a faint pink glow in the sky during dawn"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A moody coastline with waves crashing onto a rocky and grassy shoreline under overcast skies, with a lighthouse visible in the distance.",
+                "Delta Prompt": "a lighthouse visible in the distance"
+            }
+        ]
+    },
+    {
+        "Video Name": "pexels_landscape_landscape_6498051_001",
+        "Video Type": "Environment",
+        "Original Prompt": "A calm coastal scene with clear blue water, a rocky island in the middle ground, and barren, rugged hills in the background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A calm coastal scene with clear blue water, a rocky island in the middle ground, and barren, rugged hills in the background, with a seal resting on the rocks.",
+                "Delta Prompt": "a seal resting on the rocks"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A calm coastal scene with clear blue water, a rocky island in the middle ground, and barren, rugged hills in the background, with a small cabin visible at the base of the hills.",
+                "Delta Prompt": "a small cabin visible at the base of the hills"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A calm coastal scene with clear blue water, a rocky island in the middle ground, and barren, rugged hills in the background, in a soft pastel color palette.",
+                "Delta Prompt": "in a soft pastel color palette"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A calm coastal scene with clear blue water, a rocky island in the middle ground, and barren, rugged hills in the background, with a seal resting on the rocks and a small cabin at the base of the hills.",
+                "Delta Prompt": "a seal resting on the rocks and a small cabin at the base of the hills"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A calm coastal scene with clear blue water, a rocky island in the middle ground, and barren, rugged hills in the background under overcast skies.",
+                "Delta Prompt": "overcast skies"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A calm coastal scene with clear blue water, a rocky island in the middle ground, and barren, rugged hills in the background at sunset with warm golden tones.",
+                "Delta Prompt": "warm golden tones at sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A calm coastal scene with clear blue water, a rocky island in the middle ground, and barren, rugged hills in the background with distant mountains rising behind the hills.",
+                "Delta Prompt": "distant mountains rising behind the hills"
+            }
+        ]
+    },
+    {
+        "Video Name": "pexels_landscape_landscape_7356360_003",
+        "Video Type": "Environment",
+        "Original Prompt": "A calm beach with gentle waves washing onto the shore, a small red boat resting near the waterline, and hills visible in the distance under a partly cloudy sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A calm beach with gentle waves washing onto the shore, a small red boat resting near the waterline, and hills visible in the distance under a partly cloudy sky, with a fisherman standing next to the boat.",
+                "Delta Prompt": "a fisherman standing next to the boat"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A calm beach with gentle waves washing onto the shore, a small red boat resting near the waterline, and hills visible in the distance under a partly cloudy sky, with a lighthouse on one of the distant hills.",
+                "Delta Prompt": "a lighthouse on one of the distant hills"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A calm beach with gentle waves washing onto the shore, a small red boat resting near the waterline, and hills visible in the distance under a partly cloudy sky, in a bright, high-contrast color style.",
+                "Delta Prompt": "in a bright, high-contrast color style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A calm beach with gentle waves washing onto the shore, a small red boat resting near the waterline, and hills visible in the distance under a partly cloudy sky, with a fisherman standing next to the boat and a lighthouse on one of the distant hills.",
+                "Delta Prompt": "a fisherman standing next to the boat and a lighthouse on one of the distant hills"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A calm beach with gentle waves washing onto the shore, a small red boat resting near the waterline, and hills visible in the distance under dark, stormy clouds.",
+                "Delta Prompt": "dark, stormy clouds"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A calm beach with gentle waves washing onto the shore, a small red boat resting near the waterline, and hills visible in the distance under the warm glow of sunset.",
+                "Delta Prompt": "the warm glow of sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A calm beach with gentle waves washing onto the shore, a small red boat resting near the waterline, and hills visible in the distance with a bustling beachside village along the shore.",
+                "Delta Prompt": "a bustling beachside village along the shore"
+            }
+        ]
+    },
+    {
+        "Video Name": "pexels_landscape_landscape_10727081_000",
+        "Video Type": "Environment",
+        "Original Prompt": "A vast, sandy beach with turquoise water in a calm lagoon, surrounded by barren dunes under a partly cloudy sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A vast, sandy beach with turquoise water in a calm lagoon, surrounded by barren dunes under a partly cloudy sky, with a person walking along the shore.",
+                "Delta Prompt": "a person walking along the shore"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A vast, sandy beach with turquoise water in a calm lagoon, surrounded by barren dunes under a partly cloudy sky, with distant mountains visible beyond the dunes.",
+                "Delta Prompt": "distant mountains visible beyond the dunes"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A vast, sandy beach with turquoise water in a calm lagoon, surrounded by barren dunes under a partly cloudy sky, in a sepia-toned, vintage photograph style.",
+                "Delta Prompt": "in a sepia-toned, vintage photograph style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A vast, sandy beach with turquoise water in a calm lagoon, surrounded by barren dunes under a partly cloudy sky, with a person walking along the shore and distant mountains beyond the dunes.",
+                "Delta Prompt": "a person walking along the shore and distant mountains beyond the dunes"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A vast, sandy beach with turquoise water in a calm lagoon, surrounded by barren dunes under dark storm clouds and light rain.",
+                "Delta Prompt": "dark storm clouds and light rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A vast, sandy beach with turquoise water in a calm lagoon, surrounded by barren dunes under a warm golden glow of sunset.",
+                "Delta Prompt": "a warm golden glow of sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A vast, sandy beach with turquoise water in a calm lagoon, surrounded by barren dunes, with a row of beach huts along the shoreline.",
+                "Delta Prompt": "a row of beach huts along the shoreline"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_Beach_Sunrise_143752_005",
+        "Video Type": "Environment",
+        "Original Prompt": "A serene coastline at sunset with the sun dipping below the horizon, casting a warm glow over calm waters and rocky shoreline.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A serene coastline at sunset with the sun dipping below the horizon, casting a warm glow over calm waters and rocky shoreline, with a fisherman standing by the shore.",
+                "Delta Prompt": "a fisherman standing by the shore"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A serene coastline at sunset with the sun dipping below the horizon, casting a warm glow over calm waters and rocky shoreline, with distant islands visible on the horizon.",
+                "Delta Prompt": "distant islands visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A serene coastline at sunset with the sun dipping below the horizon, casting a warm glow over calm waters and rocky shoreline, in a soft, impressionist painting style.",
+                "Delta Prompt": "in a soft, impressionist painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A serene coastline at sunset with the sun dipping below the horizon, casting a warm glow over calm waters and rocky shoreline, with a fisherman standing by the shore and distant islands on the horizon.",
+                "Delta Prompt": "a fisherman standing by the shore and distant islands on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A serene coastline at sunset with the sun dipping below the horizon, casting a warm glow over calm waters and rocky shoreline, with a light mist over the water.",
+                "Delta Prompt": "a light mist over the water"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A serene coastline at dawn with the sun just rising, casting a soft pink glow over calm waters and rocky shoreline.",
+                "Delta Prompt": "a soft pink glow over calm waters at dawn"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A serene coastline at sunset with the sun dipping below the horizon, casting a warm glow over calm waters and rocky shoreline, with a small lighthouse on a distant hill.",
+                "Delta Prompt": "a small lighthouse on a distant hill"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_beaches_videos_50640_009",
+        "Video Type": "Environment",
+        "Original Prompt": "A calm coastal bay with gentle waves, a sandy beach lined with trees, and a rocky breakwater under a clear blue sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A calm coastal bay with gentle waves, a sandy beach lined with trees, and a rocky breakwater under a clear blue sky, with a surfer riding one of the waves.",
+                "Delta Prompt": "a surfer riding one of the waves"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A calm coastal bay with gentle waves, a sandy beach lined with trees, and a rocky breakwater under a clear blue sky, with a lighthouse visible on the breakwater.",
+                "Delta Prompt": "a lighthouse visible on the breakwater"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A calm coastal bay with gentle waves, a sandy beach lined with trees, and a rocky breakwater under a clear blue sky, in a vintage postcard style with faded colors.",
+                "Delta Prompt": "in a vintage postcard style with faded colors"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A calm coastal bay with gentle waves, a sandy beach lined with trees, and a rocky breakwater under a clear blue sky, with a surfer riding a wave and a lighthouse on the breakwater.",
+                "Delta Prompt": "a surfer riding a wave and a lighthouse on the breakwater"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A calm coastal bay with gentle waves, a sandy beach lined with trees, and a rocky breakwater under an overcast sky with light rain.",
+                "Delta Prompt": "an overcast sky with light rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A calm coastal bay with gentle waves, a sandy beach lined with trees, and a rocky breakwater at sunset with warm orange and pink hues in the sky.",
+                "Delta Prompt": "warm orange and pink hues in the sky at sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A calm coastal bay with gentle waves, a sandy beach lined with trees, and a rocky breakwater under a clear blue sky, with distant mountains visible beyond the beach.",
+                "Delta Prompt": "distant mountains visible beyond the beach"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_beaches_videos_202794_015",
+        "Video Type": "Environment",
+        "Original Prompt": "A rocky shoreline with waves gently crashing onto the stones, and the sea reflecting soft shades of blue and gold.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A rocky shoreline with waves gently crashing onto the stones, and the sea reflecting soft shades of blue and gold, with a seashell resting on one of the rocks.",
+                "Delta Prompt": "a seashell resting on one of the rocks"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A rocky shoreline with waves gently crashing onto the stones, and the sea reflecting soft shades of blue and gold, with a distant island visible on the horizon.",
+                "Delta Prompt": "a distant island visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A rocky shoreline with waves gently crashing onto the stones, and the sea reflecting soft shades of blue and gold, in a watercolor painting style.",
+                "Delta Prompt": "in a watercolor painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A rocky shoreline with waves gently crashing onto the stones, and the sea reflecting soft shades of blue and gold, with a seashell on one of the rocks and a distant island on the horizon.",
+                "Delta Prompt": "a seashell on one of the rocks and a distant island on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A rocky shoreline with waves gently crashing onto the stones, and the sea reflecting soft shades of blue and gold under overcast skies.",
+                "Delta Prompt": "overcast skies"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A rocky shoreline with waves gently crashing onto the stones, and the sea reflecting deep shades of blue and purple at dusk.",
+                "Delta Prompt": "deep shades of blue and purple at dusk"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A rocky shoreline with waves gently crashing onto the stones, and the sea reflecting soft shades of blue and gold, with distant mountains rising along the horizon.",
+                "Delta Prompt": "distant mountains rising along the horizon"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_cliffs_videos_61988_002",
+        "Video Type": "Environment",
+        "Original Prompt": "A rugged, rocky coastline with waves crashing against dark rocks under an overcast sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A rugged, rocky coastline with waves crashing against dark rocks under an overcast sky, with a seagull perched on one of the rocks.",
+                "Delta Prompt": "a seagull perched on one of the rocks"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A rugged, rocky coastline with waves crashing against dark rocks under an overcast sky, with a lighthouse visible on a distant cliff.",
+                "Delta Prompt": "a lighthouse visible on a distant cliff"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A rugged, rocky coastline with waves crashing against dark rocks under an overcast sky, in a moody, black-and-white photography style.",
+                "Delta Prompt": "in a moody, black-and-white photography style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A rugged, rocky coastline with waves crashing against dark rocks under an overcast sky, with a seagull perched on one of the rocks and a lighthouse on a distant cliff.",
+                "Delta Prompt": "a seagull perched on one of the rocks and a lighthouse on a distant cliff"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A rugged, rocky coastline with waves crashing against dark rocks under stormy skies with rain and mist",
+                "Delta Prompt": "stormy skies with rain and mist"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A rugged, rocky coastline with waves crashing against dark rocks at sunrise, with soft pink and orange light breaking through the clouds.",
+                "Delta Prompt": "soft pink and orange light breaking through the clouds at sunrise"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A rugged, rocky coastline with waves crashing against dark rocks under an overcast sky, with distant mountains visible along the horizon.",
+                "Delta Prompt": "distant mountains visible along the horizon"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_coastlines_videos_60512_008",
+        "Video Type": "Environment",
+        "Original Prompt": "A secluded beach with gentle waves washing onto the sandy shore, surrounded by green shrubs and rocky hills under an overcast sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A secluded beach with gentle waves washing onto the sandy shore, surrounded by green shrubs and rocky hills under an overcast sky, with a seashell resting on the sand near the waterline.",
+                "Delta Prompt": "a seashell resting on the sand near the waterline"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A secluded beach with gentle waves washing onto the sandy shore, surrounded by green shrubs and rocky hills under an overcast sky, with a small cabin visible in the distance.",
+                "Delta Prompt": "a small cabin visible in the distance"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A secluded beach with gentle waves washing onto the sandy shore, surrounded by green shrubs and rocky hills under an overcast sky, in a soft, pastel color palette.",
+                "Delta Prompt": "in a soft, pastel color palette"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A secluded beach with gentle waves washing onto the sandy shore, surrounded by green shrubs and rocky hills under an overcast sky, with a seashell near the waterline and a small cabin in the distance.",
+                "Delta Prompt": "a seashell near the waterline and a small cabin in the distance"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A secluded beach with gentle waves washing onto the sandy shore, surrounded by green shrubs and rocky hills under stormy skies with light rain.",
+                "Delta Prompt": "stormy skies with light rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A secluded beach with gentle waves washing onto the sandy shore, surrounded by green shrubs and rocky hills at sunrise with soft pink and orange light.",
+                "Delta Prompt": "soft pink and orange light at sunrise"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A secluded beach with gentle waves washing onto the sandy shore, surrounded by green shrubs and rocky hills, with a distant mountain range beyond the hills.",
+                "Delta Prompt": "a distant mountain range beyond the hills"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_coastlines_videos_200446_006",
+        "Video Type": "Environment",
+        "Original Prompt": "A rugged coastal cliff with reddish soil overlooking calm blue waters, with a grassy field extending inland and an old building nearby under an overcast sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A rugged coastal cliff with reddish soil overlooking calm blue waters, with a grassy field extending inland and an old building nearby under an overcast sky, with a lone seagull perched on the cliff edge.",
+                "Delta Prompt": "a lone seagull perched on the cliff edge"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A rugged coastal cliff with reddish soil overlooking calm blue waters, with a grassy field extending inland and an old building nearby under an overcast sky, with a lighthouse visible in the distance along the coastline.",
+                "Delta Prompt": "a lighthouse visible in the distance along the coastline"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A rugged coastal cliff with reddish soil overlooking calm blue waters, with a grassy field extending inland and an old building nearby under an overcast sky, in a dramatic, high-contrast black-and-white style.",
+                "Delta Prompt": "in a dramatic, high-contrast black-and-white style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A rugged coastal cliff with reddish soil overlooking calm blue waters, with a grassy field extending inland and an old building nearby under an overcast sky, with a lone seagull on the cliff edge and a lighthouse in the distance.",
+                "Delta Prompt": "a lone seagull on the cliff edge and a lighthouse in the distance"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A rugged coastal cliff with reddish soil overlooking calm blue waters, with a grassy field extending inland and an old building nearby under stormy skies with heavy clouds.",
+                "Delta Prompt": "stormy skies with heavy clouds"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A rugged coastal cliff with reddish soil overlooking calm blue waters, with a grassy field extending inland and an old building nearby at sunset with warm orange light illuminating the scene.",
+                "Delta Prompt": "warm orange light illuminating the scene at sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A rugged coastal cliff with reddish soil overlooking calm blue waters, with a grassy field extending inland and an old building nearby under an overcast sky, with distant mountains on the horizon.",
+                "Delta Prompt": "distant mountains on the horizon"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_deserts_videos_95072_007",
+        "Video Type": "Environment",
+        "Original Prompt": "A long, straight desert highway stretching into the distance, with sparse vehicles on the road and barren landscape on either side under a clear sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A long, straight desert highway stretching into the distance, with sparse vehicles on the road and barren landscape on either side under a clear sky, with a road sign in the foreground.",
+                "Delta Prompt": "a road sign in the foreground"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A long, straight desert highway stretching into the distance, with sparse vehicles on the road and barren landscape on either side under a clear sky, with distant mountains visible on the horizon.",
+                "Delta Prompt": "distant mountains visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A long, straight desert highway stretching into the distance, with sparse vehicles on the road and barren landscape on either side under a clear sky, in a vintage, sepia-toned style.",
+                "Delta Prompt": "in a vintage, sepia-toned style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A long, straight desert highway stretching into the distance, with sparse vehicles on the road and barren landscape on either side under a clear sky, with a road sign in the foreground and distant mountains on the horizon.",
+                "Delta Prompt": "a road sign in the foreground and distant mountains on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A long, straight desert highway stretching into the distance, with sparse vehicles on the road and barren landscape on either side under a hazy sky with a dust storm.",
+                "Delta Prompt": "a hazy sky with a dust storm"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A long, straight desert highway stretching into the distance, with sparse vehicles on the road and barren landscape on either side under a vibrant sunset with warm orange and purple hues.",
+                "Delta Prompt": "a vibrant sunset with warm orange and purple hues"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A long, straight desert highway stretching into the distance, with sparse vehicles on the road and barren landscape on either side, with wind turbines visible on the horizon.",
+                "Delta Prompt": "wind turbines visible on the horizon"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_islands_videos_202684_003",
+        "Video Type": "Environment",
+        "Original Prompt": "A small, lush green island with rocky cliffs surrounded by clear blue ocean under a bright sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A small, lush green island with rocky cliffs surrounded by clear blue ocean under a bright sky, with a sailboat approaching the island.",
+                "Delta Prompt": "a sailboat approaching the island"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A small, lush green island with rocky cliffs surrounded by clear blue ocean under a bright sky, with distant islands visible on the horizon.",
+                "Delta Prompt": "distant islands visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A small, lush green island with rocky cliffs surrounded by clear blue ocean under a bright sky, in a vibrant, watercolor painting style.",
+                "Delta Prompt": "in a vibrant, watercolor painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A small, lush green island with rocky cliffs surrounded by clear blue ocean under a bright sky, with a sailboat approaching and distant islands on the horizon.",
+                "Delta Prompt": "a sailboat approaching and distant islands on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A small, lush green island with rocky cliffs surrounded by clear blue ocean under cloudy skies with a light rain.",
+                "Delta Prompt": "cloudy skies with a light rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A small, lush green island with rocky cliffs surrounded by clear blue ocean at sunset, with warm orange and pink hues reflecting on the water.",
+                "Delta Prompt": "warm orange and pink hues reflecting on the water at sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A small, lush green island with rocky cliffs surrounded by clear blue ocean under a bright sky, with a larger island visible in the distance.",
+                "Delta Prompt": "a larger island visible in the distance"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_mountains_videos_45214_007",
+        "Video Type": "Environment",
+        "Original Prompt": "A calm river surrounded by dense green trees under a clear blue sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A calm river surrounded by dense green trees under a clear blue sky, with a duck swimming near the water's edge.",
+                "Delta Prompt": "a duck swimming near the water's edge"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A calm river surrounded by dense green trees under a clear blue sky, with distant mountains visible beyond the trees.",
+                "Delta Prompt": "distant mountains visible beyond the trees"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A calm river surrounded by dense green trees under a clear blue sky, in an impressionist painting style.",
+                "Delta Prompt": "in an impressionist painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A calm river surrounded by dense green trees under a clear blue sky, with a duck swimming near the water's edge and distant mountains beyond the trees.",
+                "Delta Prompt": "a duck swimming near the water's edge and distant mountains beyond the trees"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A calm river surrounded by dense green trees under overcast skies with light rain.",
+                "Delta Prompt": "overcast skies with light rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A calm river surrounded by dense green trees at sunrise, with soft orange and pink light reflecting on the water.",
+                "Delta Prompt": "soft orange and pink light reflecting on the water at sunrise"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A calm river surrounded by dense green trees under a clear blue sky, with a small cabin visible along the riverbank.",
+                "Delta Prompt": "a small cabin visible along the riverbank"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_seascapes_videos_199184_002",
+        "Video Type": "Environment",
+        "Original Prompt": "A sandy beach with gentle waves rolling onto the shore, with a distant town visible along the coastline under a clear blue sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A sandy beach with gentle waves rolling onto the shore, with a distant town visible along the coastline under a clear blue sky, with a beach umbrella and a towel set up near the water.",
+                "Delta Prompt": "a beach umbrella and a towel set up near the water"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A sandy beach with gentle waves rolling onto the shore, with a distant town visible along the coastline under a clear blue sky, with a lighthouse on a rocky outcrop in the distance.",
+                "Delta Prompt": "a lighthouse on a rocky outcrop in the distance"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A sandy beach with gentle waves rolling onto the shore, with a distant town visible along the coastline under a clear blue sky, in a vintage postcard style with faded colors.",
+                "Delta Prompt": "in a vintage postcard style with faded colors"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A sandy beach with gentle waves rolling onto the shore, with a distant town visible along the coastline under a clear blue sky, with a beach umbrella near the water and a lighthouse in the distance.",
+                "Delta Prompt": "a beach umbrella near the water and a lighthouse in the distance"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A sandy beach with gentle waves rolling onto the shore, with a distant town visible along the coastline under overcast skies with light rain.",
+                "Delta Prompt": "overcast skies with light rain"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A sandy beach with gentle waves rolling onto the shore, with a distant town visible along the coastline during sunset, with warm orange and pink hues in the sky.",
+                "Delta Prompt": "warm orange and pink hues in the sky during sunset"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A sandy beach with gentle waves rolling onto the shore, with a distant town visible along the coastline under a clear blue sky, with a row of beachside cabins in the background.",
+                "Delta Prompt": "a row of beachside cabins in the background"
+            }
+        ]
+    },
+    {
+        "Video Name": "pixabay_Summer_Beaches_159648_018",
+        "Video Type": "Environment",
+        "Original Prompt": "A vast ocean under a dramatic sunset sky with clouds illuminated in shades of orange, pink, and purple.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A vast ocean under a dramatic sunset sky with clouds illuminated in shades of orange, pink, and purple, with a flock of seagulls flying close to the water.",
+                "Delta Prompt": "a flock of seagulls flying close to the water"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A vast ocean under a dramatic sunset sky with clouds illuminated in shades of orange, pink, and purple, with distant islands visible on the horizon.",
+                "Delta Prompt": "distant islands visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A vast ocean under a dramatic sunset sky with clouds illuminated in shades of orange, pink, and purple, in a surrealist painting style.",
+                "Delta Prompt": "in a surrealist painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A vast ocean under a dramatic sunset sky with clouds illuminated in shades of orange, pink, and purple, with a flock of seagulls flying close to the water and distant islands on the horizon.",
+                "Delta Prompt": "a flock of seagulls flying close to the water and distant islands on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Weather",
+                "Full Prompt": "A vast ocean under a dramatic sunset sky with clouds illuminated in shades of orange, pink, and purple, with light rain falling over the water.",
+                "Delta Prompt": "light rain falling over the water"
+            },
+            { 
+                "Editing Type": "Time",
+                "Full Prompt": "A vast ocean under a soft dawn sky with clouds in pale shades of pink and blue, as the sun begins to rise.",
+                "Delta Prompt": "a soft dawn sky with clouds in pale shades of pink and blue"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A vast ocean under a dramatic sunset sky with clouds illuminated in shades of orange, pink, and purple, with a tall mountain peak visible on the horizon.",
+                "Delta Prompt": "a tall mountain peak visible on the horizon"
+            }
+        ]
+    }
+]

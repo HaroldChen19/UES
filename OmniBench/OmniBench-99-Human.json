@@ -1,0 +1,1289 @@
+[
+    {
+        "Video Name": "_447wbByfUQ_87_17to142",
+        "Video Type": "Human",
+        "Original Prompt": "A man sitting on a park bench reading a magazine, surrounded by greenery.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A man sitting on a park bench reading a magazine, with a small dog sitting beside him.",
+                "Delta Prompt": "a small dog sitting beside him"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A man sitting on a park bench reading a magazine, with a fountain visible in the background.",
+                "Delta Prompt": "a fountain visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A man sitting on a park bench reading a magazine, in a vintage, sepia-toned style.",
+                "Delta Prompt": "in a vintage, sepia-toned style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A man sitting on a park bench reading a magazine, with a small dog beside him and a fountain in the background.",
+                "Delta Prompt": "a small dog beside him and a fountain in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A man sitting on a park bench reading a magazine, wearing a hat.",
+                "Delta Prompt": "wearing a hat"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A man sitting on a park bench, looking up from his magazine as if noticing someone approaching.",
+                "Delta Prompt": "looking up from his magazine as if noticing someone approaching"
+            }
+        ]
+    },
+    {
+        "Video Name": "_import_609d2307cc2478_28893743",
+        "Video Type": "Human",
+        "Original Prompt": "A baby lying on a bed in a softly lit room, looking up with a curious expression.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A baby lying on a bed in a softly lit room, with a small stuffed animal beside them.",
+                "Delta Prompt": "a small stuffed animal beside them"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A baby lying on a bed in a softly lit room, with a window showing a sunny garden view in the background.",
+                "Delta Prompt": "a window showing a sunny garden view in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A baby lying on a bed in a softly lit room, in a dreamy, pastel-colored filter.",
+                "Delta Prompt": "in a dreamy, pastel-colored filter"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A baby lying on a bed in a softly lit room, with a small stuffed animal beside them and a window showing a sunny garden view.",
+                "Delta Prompt": "a small stuffed animal beside them and a window showing a sunny garden view"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A baby lying on a bed in a softly lit room, wearing a cozy knitted hat.",
+                "Delta Prompt": "wearing a cozy knitted hat"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A baby lying on a bed in a softly lit room, reaching forward as if trying to grab something.",
+                "Delta Prompt": "reaching forward as if trying to grab something"
+            }
+        ]
+    },
+    {
+        "Video Name": "_s4_TtvuzHc_38_0to214",
+        "Video Type": "Human",
+        "Original Prompt": "A small fluffy dog wearing a pink sweater standing on a gravel path, looking up.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A small fluffy dog wearing a pink sweater standing on a gravel path, with a toy bone next to it.",
+                "Delta Prompt": "a toy bone next to it"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A small fluffy dog wearing a pink sweater standing on a gravel path, with a garden visible in the background.",
+                "Delta Prompt": "a garden visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A small fluffy dog wearing a pink sweater standing on a gravel path, in a pastel illustration style.",
+                "Delta Prompt": "in a pastel illustration style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A small fluffy dog wearing a pink sweater standing on a gravel path, with a toy bone next to it and a garden in the background.",
+                "Delta Prompt": "a toy bone next to it and a garden in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A small fluffy dog wearing a pink sweater and a small hat standing on a gravel path.",
+                "Delta Prompt": "wearing a small hat"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A small fluffy dog wearing a pink sweater standing on a gravel path, sitting down and looking up.",
+                "Delta Prompt": "sitting down and looking up"
+            }
+        ]
+    },
+    {
+        "Video Name": "1",
+        "Video Type": "Human",
+        "Original Prompt": "A man with a beard and headband wearing a sports shirt, standing in an indoor setting and looking directly at the camera.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A man with a beard and headband wearing a sports shirt, standing in an indoor setting with a water bottle in his hand.",
+                "Delta Prompt": "a water bottle in his hand"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A man with a beard and headband wearing a sports shirt, standing in an indoor setting with a gym setup visible in the background.",
+                "Delta Prompt": "a gym setup visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A man with a beard and headband wearing a sports shirt, standing in an indoor setting, in a black and white, high-contrast style.",
+                "Delta Prompt": "in a black and white, high-contrast style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A man with a beard and headband wearing a sports shirt, standing in an indoor setting with a water bottle in his hand and a gym setup in the background.",
+                "Delta Prompt": "a water bottle in his hand and a gym setup in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "Tony Stark with a beard and headband wearing a sports shirt, standing in an indoor setting and looking directly at the camera.",
+                "Delta Prompt": "Tony Stark"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A man with a beard and headband wearing a sports shirt, standing in an indoor setting, with one hand raised in a thumbs-up gesture.",
+                "Delta Prompt": "with one hand raised in a thumbs-up gesture"
+            }
+        ]
+    },
+    {
+        "Video Name": "5O0UJPmcZHc_2_0to138",
+        "Video Type": "Human",
+        "Original Prompt": "A butterfly perched on a green leaf with pink flowers around it in a lush garden.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A butterfly perched on a green leaf with pink flowers around it in a lush garden, with a small bee flying nearby.",
+                "Delta Prompt": "a small bee flying nearby"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A butterfly perched on a green leaf with pink flowers around it in a lush garden, with a waterfall visible in the background.",
+                "Delta Prompt": "a waterfall visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A butterfly perched on a green leaf with pink flowers around it in a lush garden, in a vibrant, watercolor painting style.",
+                "Delta Prompt": "in a vibrant, watercolor painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A butterfly perched on a green leaf with pink flowers around it in a lush garden, with a small bee nearby and a waterfall in the background.",
+                "Delta Prompt": "a small bee nearby and a waterfall in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A butterfly with bright blue wings perched on a green leaf with pink flowers around it in a lush garden.",
+                "Delta Prompt": "with bright blue wings"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A butterfly hovering over a flower with its wings spread wide in a lush garden.",
+                "Delta Prompt": "hovering over a flower with its wings spread wide"
+            }
+        ]
+    },
+    {
+        "Video Name": "2806_dunk_basketball_basket_SlowmotionSantaMonica02720p5000br",
+        "Video Type": "Human",
+        "Original Prompt": "A basketball player in a neon shirt dunking a basketball during a game on an outdoor court.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A basketball player in a neon shirt dunking a basketball during a game on an outdoor court, with a cheering crowd in the background.",
+                "Delta Prompt": "a cheering crowd in the background"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A basketball player in a neon shirt dunking a basketball during a game on an outdoor court, with a large stadium visible in the distance.",
+                "Delta Prompt": "a large stadium visible in the distance"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A basketball player in a neon shirt dunking a basketball during a game on an outdoor court, in a comic book illustration style.",
+                "Delta Prompt": "in a comic book illustration style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A basketball player in a neon shirt dunking a basketball during a game on an outdoor court, with a cheering crowd and a large stadium in the distance.",
+                "Delta Prompt": "a cheering crowd and a large stadium in the distance"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A basketball player with a neon shirt and a headband dunking a basketball during a game on an outdoor court.",
+                "Delta Prompt": "with a headband"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A basketball player in a neon shirt performing a 360-degree spin dunk on an outdoor court.",
+                "Delta Prompt": "performing a 360-degree spin dunk"
+            }
+        ]
+    },
+    {
+        "Video Name": "3915_surfing_barreled_surfers_Surfer1",
+        "Video Type": "Human",
+        "Original Prompt": "A surfer riding a massive wave while a photographer captures the process from the water under a clear sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A surfer riding a massive wave while a large shark swimming near the surfer.",
+                "Delta Prompt": "a large shark swimming near the surfer"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A surfer riding a massive wave with a distant island visible in the background.",
+                "Delta Prompt": "a distant island visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A surfer riding a massive wave under an overcast sky with a moody atmosphere.",
+                "Delta Prompt": "an overcast sky with a moody atmosphere"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A surfer riding a massive wave with a distant island visible in the background, while a large shark swimming near the surfer.",
+                "Delta Prompt": "a distant island visible in the background, while a large shark swimming near the surfer"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A surfer with bright-colored clothing riding a massive wave while a photographer captures the process from the water under a clear sky.",
+                "Delta Prompt": "with bright-colored clothing"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A surfer performing a sharp turn on the wave while a photographer captures the process from the water under a clear sky.",
+                "Delta Prompt": "performing a sharp turn on the wave"
+            }
+        ]
+    },
+    {
+        "Video Name": "4047_seagull_gull_gulls_SeagullsMediumAltMaster",
+        "Video Type": "Human",
+        "Original Prompt": "A seagull flying in the sky with its wings spread wide under an overcast sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A seagull flying in the sky with its wings spread wide under an overcast sky, with another smaller bird flying nearby.",
+                "Delta Prompt": "another smaller bird flying nearby"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A seagull flying in the sky with its wings spread wide under an overcast sky, with a distant mountain visible below.",
+                "Delta Prompt": "a distant mountain visible below"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A seagull flying in the sky with its wings spread wide under an overcast sky, in a minimalist ink illustration style.",
+                "Delta Prompt": "in a minimalist ink illustration style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A seagull flying in the sky with its wings spread wide under an overcast sky, with another bird nearby and a distant mountain below.",
+                "Delta Prompt": "another bird nearby and a distant mountain below"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A seagull with a bright red marking on its beak flying in the sky with its wings spread wide under an overcast sky.",
+                "Delta Prompt": "a bright red marking on its beak"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A seagull standing with its wings spread wide under an overcast sky.",
+                "Delta Prompt": "standing"
+            }
+        ]
+    },
+    {
+        "Video Name": "4135_yoga_sunset_meditating_AoNangBeachYogaMP4HDV1080p25TanuriXStockFootageNS720p5000br",
+        "Video Type": "Human",
+        "Original Prompt": "A person practicing yoga in a warrior pose on a beach at sunset, with the sun low over the ocean.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A person practicing yoga in a warrior pose on a beach at sunset, with a small dog sitting beside them.",
+                "Delta Prompt": "a small dog sitting beside them"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A person practicing yoga in a warrior pose on a beach at sunset, with a distant sailboat on the horizon.",
+                "Delta Prompt": "a distant sailboat on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A person practicing yoga in a warrior pose on a beach at sunset, in a soft watercolor painting style.",
+                "Delta Prompt": "in a soft watercolor painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A person practicing yoga in a warrior pose on a beach at sunset, with a small dog beside them and a distant sailboat on the horizon.",
+                "Delta Prompt": "a small dog beside them and a distant sailboat on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A person practicing yoga in a warrior pose on a beach at sunset, wearing a brightly colored headband.",
+                "Delta Prompt": "wearing a brightly colored headband"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A person practicing yoga in a tree pose on a beach at sunset, with the sun low over the ocean.",
+                "Delta Prompt": "in a tree pose"
+            }
+        ]
+    },
+    {
+        "Video Name": "4138_sunset_silhouette_freedom_SunsetSwinging04MP4HDV1080p25TanuriXStockFootageNS720p5000br",
+        "Video Type": "Human",
+        "Original Prompt": "A person swinging over the water at sunset, silhouetted against the sky and ocean.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A person swinging over the water at sunset, silhouetted against the sky and ocean, with a flock of birds flying nearby.",
+                "Delta Prompt": "a flock of birds flying nearby"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A person swinging over the water at sunset, silhouetted against the sky and ocean, with a distant island visible on the horizon.",
+                "Delta Prompt": "a distant island visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A person swinging over the water at sunset, silhouetted against the sky and ocean, in a vibrant, warm-toned cinematic style.",
+                "Delta Prompt": "in a vibrant, warm-toned cinematic style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A person swinging over the water at sunset, silhouetted against the sky and ocean, with a flock of birds nearby and a distant island on the horizon.",
+                "Delta Prompt": "a flock of birds nearby and a distant island on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A person swinging over the water at sunset, silhouetted against the sky and ocean, wearing a flowing scarf.",
+                "Delta Prompt": "wearing a flowing scarf"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A person swinging over the water at sunset, performing a playful kick in mid-air.",
+                "Delta Prompt": "performing a playful kick in mid-air"
+            }
+        ]
+    },
+    {
+        "Video Name": "4278_cat_coll_feline_friends_feline_catinthesun720p5000br",
+        "Video Type": "Human",
+        "Original Prompt": "A cat sitting in a grassy field, partially obscured by tall grass, with soft sunlight filtering through.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A cat sitting in a grassy field, partially obscured by tall grass, with soft sunlight filtering through, and a butterfly hovering nearby.",
+                "Delta Prompt": "a butterfly hovering nearby"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A cat sitting in a grassy field, partially obscured by tall grass, with soft sunlight filtering through, with a distant farmhouse visible in the background.",
+                "Delta Prompt": "a distant farmhouse visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A cat sitting in a grassy field, partially obscured by tall grass, with soft sunlight filtering through, in a dreamy, soft-focus style.",
+                "Delta Prompt": "in a dreamy, soft-focus style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A cat sitting in a grassy field, partially obscured by tall grass, with soft sunlight filtering through, with a butterfly nearby and a distant farmhouse in the background.",
+                "Delta Prompt": "a butterfly nearby and a distant farmhouse in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A cat with a small blue collar sitting in a grassy field, partially obscured by tall grass, with soft sunlight filtering through.",
+                "Delta Prompt": "with a small blue collar"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A cat sitting in a grassy field, partially obscured by tall grass, with soft sunlight filtering through, as it raises a paw playfully.",
+                "Delta Prompt": "as it raises a paw playfully"
+            }
+        ]
+    },
+    {
+        "Video Name": "4929_deer_doe_grazing_deers4",
+        "Video Type": "Human",
+        "Original Prompt": "A deer standing near a bush with green grass around, looking away from the camera.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A deer standing near a bush with green grass around, looking away from the camera, with a small bird perched on its back.",
+                "Delta Prompt": "a small bird perched on its back"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A deer standing near a bush with green grass around, looking away from the camera, with a mountain range visible in the distance.",
+                "Delta Prompt": "a mountain range visible in the distance"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A deer standing near a bush with green grass around, looking away from the camera, in a soft watercolor painting style.",
+                "Delta Prompt": "in a soft watercolor painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A deer standing near a bush with green grass around, looking away from the camera, with a small bird on its back and a mountain range in the distance.",
+                "Delta Prompt": "a small bird on its back and a mountain range in the distance"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A deer with a small white patch on its back standing near a bush with green grass around, looking away from the camera.",
+                "Delta Prompt": "a small white patch on its back"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A deer standing near a bush with green grass around, turning its head as if noticing something.",
+                "Delta Prompt": "turning its head as if noticing something"
+            }
+        ]
+    },
+    {
+        "Video Name": "5357_Swans_swan_water_birds_Swans12871720p5000br",
+        "Video Type": "Human",
+        "Original Prompt": "A group of swans swimming together on a calm lake with a few ducks among them.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A group of swans swimming together on a calm lake with a few ducks among them, with a small fish jumping out of the water nearby.",
+                "Delta Prompt": "a small fish jumping out of the water nearby"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A group of swans swimming together on a calm lake with a few ducks among them, with a forested shoreline in the background.",
+                "Delta Prompt": "a forested shoreline in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A group of swans swimming together on a calm lake with a few ducks among them, in an impressionist painting style.",
+                "Delta Prompt": "in an impressionist painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A group of swans swimming together on a calm lake with a few ducks among them, with a small fish jumping out of the water nearby and a forested shoreline in the background.",
+                "Delta Prompt": "a small fish jumping out of the water nearby and a forested shoreline in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A group of swans, including one with a distinctive black mark on its head, swimming together on a calm lake with a few ducks among them.",
+                "Delta Prompt": "one swan with a distinctive black mark on its head"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A group of swans swimming together on a calm lake with a few ducks among them, with one swan stretching its wings.",
+                "Delta Prompt": "one swan stretching its wings"
+            }
+        ]
+    },
+    {
+        "Video Name": "190301_1_25_11",
+        "Video Type": "Human",
+        "Original Prompt": "A lioness walking across a grassy field with distant trees and wildlife in the background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A lioness walking across a grassy field with distant trees and wildlife in the background, with a cub walking beside her.",
+                "Delta Prompt": "a cub walking beside her"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A lioness walking across a grassy field with distant trees and wildlife in the background, with a mountain range visible in the distance.",
+                "Delta Prompt": "a mountain range visible in the distance"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A lioness walking across a grassy field with distant trees and wildlife in the background, in a watercolor painting style.",
+                "Delta Prompt": "in a watercolor painting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A lioness walking across a grassy field with distant trees and wildlife in the background, with a cub beside her and a mountain range in the distance.",
+                "Delta Prompt": "a cub beside her and a mountain range in the distance"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A lioness with a distinctive scar on her face walking across a grassy field with distant trees and wildlife in the background.",
+                "Delta Prompt": "a distinctive scar on her face"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A lioness walking across a grassy field with distant trees and wildlife in the background, looking over her shoulder.",
+                "Delta Prompt": "looking over her shoulder"
+            }
+        ]
+    },
+    {
+        "Video Name": "190312_30_StadioOlimpicoAndFans_UHD_002",
+        "Video Type": "Human",
+        "Original Prompt": "A person jogging under a graffiti-covered bridge with a cityscape and bridge in the background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A person jogging under a graffiti-covered bridge with a cityscape and bridge in the background, with a dog running beside them.",
+                "Delta Prompt": "a dog running beside them"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A person jogging under a graffiti-covered bridge with a cityscape and bridge in the background, with a riverboat passing under the distant bridge.",
+                "Delta Prompt": "a riverboat passing under the distant bridge"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A person jogging under a graffiti-covered bridge with a cityscape and bridge in the background, in a film noir style with high contrast and shadows.",
+                "Delta Prompt": "in a film noir style with high contrast and shadows"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A person jogging under a graffiti-covered bridge with a cityscape and bridge in the background, with a dog running beside them and a riverboat passing under the distant bridge.",
+                "Delta Prompt": "a dog running beside them and a riverboat passing under the distant bridge"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A person wearing a bright red jacket jogging under a graffiti-covered bridge with a cityscape and bridge in the background.",
+                "Delta Prompt": "wearing a bright red jacket"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A person jogging under a graffiti-covered bridge with a cityscape and bridge in the background, slowing down to a walk.",
+                "Delta Prompt": "slowing down to a walk"
+            }
+        ]
+    },
+    {
+        "Video Name": "463643_sun_rise_beach_sea_Mobilitycombopixa720p5000br",
+        "Video Type": "Human",
+        "Original Prompt": "A person sitting on a beach at sunrise, gazing out over the ocean with the sun low on the horizon.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A person sitting on a beach at sunrise, gazing out over the ocean with the sun low on the horizon, with a seashell beside them in the sand.",
+                "Delta Prompt": "a seashell beside them in the sand"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A person sitting on a beach at sunrise, gazing out over the ocean with the sun low on the horizon, with a distant sailboat on the water.",
+                "Delta Prompt": "a distant sailboat on the water"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A person sitting on a beach at sunrise, gazing out over the ocean with the sun low on the horizon, in a soft, pastel color palette.",
+                "Delta Prompt": "in a soft, pastel color palette"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A person sitting on a beach at sunrise, gazing out over the ocean with the sun low on the horizon, with a seashell beside them and a distant sailboat on the water.",
+                "Delta Prompt": "a seashell beside them and a distant sailboat on the water"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A person wearing a wide-brimmed hat sitting on a beach at sunrise, gazing out over the ocean with the sun low on the horizon.",
+                "Delta Prompt": "wearing a wide-brimmed hat"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A person sitting on a beach at sunrise, gazing out over the ocean with the sun low on the horizon, with one hand raised as if shielding their eyes.",
+                "Delta Prompt": "one hand raised as if shielding their eyes"
+            }
+        ]
+    },
+    {
+        "Video Name": "851286_crow_bird_uk_21052504Cambridge2k004720p5000br",
+        "Video Type": "Human",
+        "Original Prompt": "A crow standing on a grassy field, peering down at a small object on the ground.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A crow standing on a grassy field, peering down at a small object on the ground, with a feather lying next to it.",
+                "Delta Prompt": "a feather lying next to it"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A crow standing on a grassy field, peering down at a small object on the ground, with a playground visible in the background.",
+                "Delta Prompt": "a playground visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A crow standing on a grassy field, peering down at a small object on the ground, in a monochromatic, high-contrast style.",
+                "Delta Prompt": "in a monochromatic, high-contrast style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A crow standing on a grassy field, peering down at a small object on the ground, with a feather next to it and a playground in the background.",
+                "Delta Prompt": "a feather next to it and a playground in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A crow with a small red ribbon tied around its leg standing on a grassy field, peering down at a small object on the ground.",
+                "Delta Prompt": "a small red ribbon tied around its leg"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A crow standing on a grassy field, pecking at a small object on the ground.",
+                "Delta Prompt": "pecking"
+            }
+        ]
+    },
+    {
+        "Video Name": "AXRSuyf49Vk_9_45to283",
+        "Video Type": "Human",
+        "Original Prompt": "A person standing in front of a white wall, wearing a black zip-up jacket and smiling at the camera.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A person standing in front of a white wall, wearing a black zip-up jacket and smiling at the camera, holding a potted plant.",
+                "Delta Prompt": "holding a potted plant"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A person standing in front of a white wall, wearing a black zip-up jacket and smiling at the camera, with a garden visible in the background.",
+                "Delta Prompt": "a garden visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A person standing in front of a white wall, wearing a black zip-up jacket and smiling at the camera, in a retro film grain style.",
+                "Delta Prompt": "in a retro film grain style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A person standing in front of a white wall, wearing a black zip-up jacket and smiling at the camera, holding a potted plant with a garden in the background.",
+                "Delta Prompt": "holding a potted plant with a garden in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A woman with a blue coat standing in front of a white wall, wearing a black zip-up jacket and smiling at the camera.",
+                "Delta Prompt": "a woman wearing a blue coat"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A person standing in front of a white wall, wearing a black zip-up jacket, smiling and giving a thumbs-up.",
+                "Delta Prompt": "smiling and giving a thumbs-up"
+            }
+        ]
+    },
+    {
+        "Video Name": "c27YWvFtFZc_0_150to447",
+        "Video Type": "Human",
+        "Original Prompt": "A man sitting in a chair against a plain background, wearing a suit and tie, and smiling.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A man sitting in a chair against a plain background, wearing a suit and tie, smiling, and holding a clipboard.",
+                "Delta Prompt": "holding a clipboard"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A man sitting in a chair against a plain background, wearing a suit and tie, smiling, with a bookshelf behind him.",
+                "Delta Prompt": "a bookshelf behind him"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A man sitting in a chair against a plain background, wearing a suit and tie, smiling, in a vintage sepia-toned style.",
+                "Delta Prompt": "in a vintage sepia-toned style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A man sitting in a chair against a plain background, wearing a suit and tie, smiling, holding a clipboard with a bookshelf behind him.",
+                "Delta Prompt": "holding a clipboard with a bookshelf behind him"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A man sitting in a chair against a plain background, wearing a suit with a red bow tie and smiling.",
+                "Delta Prompt": "wearing a red bow tie"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A man sitting in a chair against a plain background, wearing a suit and tie, smiling, and gesturing with one hand.",
+                "Delta Prompt": "gesturing with one hand"
+            }
+        ]
+    },
+    {
+        "Video Name": "Fem50w0HIe0_26_0to118",
+        "Video Type": "Human",
+        "Original Prompt": "A man standing on a boat, wearing a white polo shirt, with a scenic coastline and houses on a hillside in the background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A man standing on a boat, wearing a white polo shirt, holding a pair of binoculars, with a scenic coastline and houses on a hillside in the background.",
+                "Delta Prompt": "holding a pair of binoculars"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A man standing on a boat, wearing a white polo shirt, with a lighthouse visible on the coastline in the background.",
+                "Delta Prompt": "a lighthouse visible on the coastline in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A man standing on a boat, wearing a white polo shirt, with a scenic coastline and houses on a hillside in the background, in a vibrant, tropical color grading style.",
+                "Delta Prompt": "in a vibrant, tropical color grading style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A man standing on a boat, wearing a white polo shirt, holding binoculars with a lighthouse visible on the coastline in the background.",
+                "Delta Prompt": "holding binoculars with a lighthouse visible on the coastline in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A man standing on a boat, wearing a white polo shirt and a captain's hat, with a scenic coastline and houses on a hillside in the background.",
+                "Delta Prompt": "wearing a captain's hat"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A man standing on a boat, wearing a white polo shirt, pointing towards the coastline with a scenic hillside in the background.",
+                "Delta Prompt": "pointing towards the coastline"
+            }
+        ]
+    },
+    {
+        "Video Name": "fS6n-IBSuGE_31_0to871",
+        "Video Type": "Human",
+        "Original Prompt": "A man wearing glasses and a suit jacket speaking on stage with a dark background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A man wearing glasses and a suit jacket speaking on stage with a dark background, holding a laser pointer.",
+                "Delta Prompt": "holding a laser pointer"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A man wearing glasses and a suit jacket speaking on stage with a dark background, with a large screen displaying charts.",
+                "Delta Prompt": "a large screen displaying charts"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A man wearing glasses and a suit jacket speaking on stage with a dark background, in a high-contrast, dramatic lighting style.",
+                "Delta Prompt": "in a high-contrast, dramatic lighting style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A man wearing glasses and a suit jacket speaking on stage with a dark background, holding a laser pointer with a large screen displaying charts.",
+                "Delta Prompt": "holding a laser pointer with a large screen displaying charts"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A man wearing glasses, a suit jacket, and a bright red tie speaking on stage with a dark background.",
+                "Delta Prompt": "wearing a bright red tie"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A man wearing glasses and a suit jacket speaking on stage with a dark background, gesturing with one hand.",
+                "Delta Prompt": "gesturing with one hand"
+            }
+        ]
+    },
+    {
+        "Video Name": "gatos_",
+        "Video Type": "Human",
+        "Original Prompt": "Three kittens sitting together on a white surface, looking in different directions.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "Three kittens sitting together on a white surface, looking in different directions, with a small toy mouse in front of them.",
+                "Delta Prompt": "a small toy mouse in front of them"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "Three kittens sitting together on a white surface, looking in different directions, with a soft blanket draped in the background.",
+                "Delta Prompt": "a soft blanket draped in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "Three kittens sitting together on a white surface, looking in different directions, in a pastel-colored, soft-focus style.",
+                "Delta Prompt": "in a pastel-colored, soft-focus style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "Three kittens sitting together on a white surface, looking in different directions, with a toy mouse in front of them and a soft blanket in the background.",
+                "Delta Prompt": "a toy mouse in front of them and a soft blanket in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "Three kittens sitting together on a white surface, one of them wearing a small red collar, looking in different directions.",
+                "Delta Prompt": "one of them wearing a small red collar"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "Three kittens sitting together on a white surface, one of them raising a paw playfully.",
+                "Delta Prompt": "one of them raising a paw playfully"
+            }
+        ]
+    },
+    {
+        "Video Name": "greypass009",
+        "Video Type": "Human",
+        "Original Prompt": "A shark swimming in deep ocean waters, silhouetted against the light filtering from above.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A shark swimming in deep ocean waters, silhouetted against the light filtering from above, with a small school of fish nearby.",
+                "Delta Prompt": "a small school of fish nearby"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A shark swimming in deep ocean waters, silhouetted against the light filtering from above, with a coral reef visible below.",
+                "Delta Prompt": "a coral reef visible below"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A shark swimming in deep ocean waters, silhouetted against the light filtering from above, in a high-contrast, cinematic style.",
+                "Delta Prompt": "in a high-contrast, cinematic style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A shark swimming in deep ocean waters, silhouetted against the light filtering from above, with a small school of fish nearby and a coral reef below.",
+                "Delta Prompt": "a small school of fish nearby and a coral reef below"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A shark with distinctive white markings on its fins swimming in deep ocean waters, silhouetted against the light filtering from above.",
+                "Delta Prompt": "distinctive white markings on its fins"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A shark swimming in deep ocean waters, silhouetted against the light filtering from above, turning sharply to the right.",
+                "Delta Prompt": "turning sharply to the right"
+            }
+        ]
+    },
+    {
+        "Video Name": "large_1",
+        "Video Type": "Human",
+        "Original Prompt": "A person walking alone across a vast, empty desert under a clear sky.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A person walking alone across a vast, empty desert under a clear sky, with a camel walking beside them.",
+                "Delta Prompt": "a camel walking beside them"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A person walking alone across a vast, empty desert under a clear sky, with distant mountains visible on the horizon.",
+                "Delta Prompt": "distant mountains visible on the horizon"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A person walking alone across a vast, empty desert under a clear sky, in a sepia-toned, vintage style.",
+                "Delta Prompt": "in a sepia-toned, vintage style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A person walking alone across a vast, empty desert under a clear sky, with a camel beside them and distant mountains on the horizon.",
+                "Delta Prompt": "a camel beside them and distant mountains on the horizon"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A person wearing a wide-brimmed hat walking alone across a vast, empty desert under a clear sky.",
+                "Delta Prompt": "wearing a wide-brimmed hat"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A person walking alone across a vast, empty desert under a clear sky, pausing and looking up at the sky.",
+                "Delta Prompt": "pausing and looking up at the sky"
+            }
+        ]
+    },
+    {
+        "Video Name": "large_2",
+        "Video Type": "Human",
+        "Original Prompt": "A fluffy cat grooming itself on a couch, licking its paw.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A fluffy cat grooming itself on a couch, licking its paw, with a small toy ball beside it.",
+                "Delta Prompt": "a small toy ball beside it"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A fluffy cat grooming itself on a couch, licking its paw, with a cozy blanket draped over the couch.",
+                "Delta Prompt": "a cozy blanket draped over the couch"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A fluffy cat grooming itself on a couch, licking its paw, in a soft, warm filter that emphasizes the fur's texture.",
+                "Delta Prompt": "in a soft, warm filter that emphasizes the fur's texture"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A fluffy cat grooming itself on a couch, licking its paw, with a small toy ball beside it and a cozy blanket draped over the couch.",
+                "Delta Prompt": "a small toy ball beside it and a cozy blanket draped over the couch"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A fluffy cat with a blue collar grooming itself on a couch, licking its paw.",
+                "Delta Prompt": "with a blue collar"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A fluffy cat sitting upright on a couch, licking its paw while looking off to the side.",
+                "Delta Prompt": "sitting upright while looking off to the side"
+            }
+        ]
+    },
+    {
+        "Video Name": "large_3",
+        "Video Type": "Human",
+        "Original Prompt": "A fluffy cat lying on a rug, stretching out one paw on a sunlit wooden floor.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A fluffy cat lying on a rug, stretching out one paw on a sunlit wooden floor, with a small toy mouse near its paw.",
+                "Delta Prompt": "a small toy mouse near its paw"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A fluffy cat lying on a rug, stretching out one paw on a sunlit wooden floor, with a potted plant in the background.",
+                "Delta Prompt": "a potted plant in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A fluffy cat lying on a rug, stretching out one paw on a sunlit wooden floor, in a soft, warm color palette with enhanced sunlight effects.",
+                "Delta Prompt": "in a soft, warm color palette with enhanced sunlight effects"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A fluffy cat lying on a rug, stretching out one paw on a sunlit wooden floor, with a small toy mouse near its paw and a potted plant in the background.",
+                "Delta Prompt": "a small toy mouse near its paw and a potted plant in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A fluffy cat with a red collar lying on a rug, stretching out one paw on a sunlit wooden floor.",
+                "Delta Prompt": "with a red collar"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A fluffy cat lying on a rug, stretching out one paw and looking up towards the camera on a sunlit wooden floor.",
+                "Delta Prompt": "looking up towards the camera"
+            }
+        ]
+    },
+    {
+        "Video Name": "large",
+        "Video Type": "Human",
+        "Original Prompt": "A ginger cat with white paws lounging on a white surface indoors, looking off to the side.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A ginger cat with white paws lounging on a white surface indoors, looking off to the side, with a small toy mouse nearby.",
+                "Delta Prompt": "a small toy mouse nearby"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A ginger cat with white paws lounging on a white surface indoors, looking off to the side, with a potted plant visible in the background.",
+                "Delta Prompt": "a potted plant visible in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A ginger cat with white paws lounging on a white surface indoors, looking off to the side, in a soft, warm color palette with gentle lighting.",
+                "Delta Prompt": "in a soft, warm color palette with gentle lighting"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A ginger cat with white paws lounging on a white surface indoors, looking off to the side, with a small toy mouse nearby and a potted plant in the background.",
+                "Delta Prompt": "a small toy mouse nearby and a potted plant in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A ginger cat with white paws and a blue collar lounging on a white surface indoors, looking off to the side.",
+                "Delta Prompt": "with a blue collar"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A ginger cat with white paws lounging on a white surface indoors, looking off to the side, raising one paw.",
+                "Delta Prompt": "raising one paw"
+            }
+        ]
+    },
+    {
+        "Video Name": "Tiger",
+        "Video Type": "Human",
+        "Original Prompt": "A tiger standing on tree branches in a forest, looking into the distance.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A tiger standing on tree branches in a forest, looking into the distance, with a bird perched on a nearby branch.",
+                "Delta Prompt": "a bird perched on a nearby branch"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A tiger standing on tree branches in a forest, looking into the distance, with a waterfall in the background.",
+                "Delta Prompt": "a waterfall in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A tiger standing on tree branches in a forest, looking into the distance, in a high-contrast, cinematic style.",
+                "Delta Prompt": "in a high-contrast, cinematic style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A tiger standing on tree branches in a forest, looking into the distance, with a bird on a nearby branch and a waterfall in the background.",
+                "Delta Prompt": "a bird on a nearby branch and a waterfall in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A tiger with a distinctive scar above its eye standing on tree branches in a forest, looking into the distance.",
+                "Delta Prompt": "with a distinctive scar above its eye"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A tiger standing on tree branches in a forest, looking into the distance, mid-roar.",
+                "Delta Prompt": "mid-roar"
+            }
+        ]
+    },
+    {
+        "Video Name": "TzbQ5y3AUzY_17_88to237",
+        "Video Type": "Human",
+        "Original Prompt": "A young man standing indoors in front of a white door, gesturing with one hand.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A young man standing indoors in front of a white door, gesturing with one hand and holding a notebook.",
+                "Delta Prompt": "holding a notebook"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A young man standing indoors in front of a white door, gesturing with one hand, with a decorative painting on the wall behind him.",
+                "Delta Prompt": "a decorative painting on the wall behind him"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A young man standing indoors in front of a white door, gesturing with one hand, in a high-contrast, monochromatic style.",
+                "Delta Prompt": "in a high-contrast, monochromatic style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A young man standing indoors in front of a white door, gesturing with one hand, holding a notebook, and with a decorative painting on the wall behind him.",
+                "Delta Prompt": "holding a notebook and a decorative painting on the wall behind him"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A young man with glasses standing indoors in front of a white door, gesturing with one hand.",
+                "Delta Prompt": "with glasses"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A young man standing indoors in front of a white door, gesturing with both hands.",
+                "Delta Prompt": "gesturing with both hands"
+            }
+        ]
+    },
+    {
+        "Video Name": "u9HVETJRxSQ_1_98to273",
+        "Video Type": "Human",
+        "Original Prompt": "A man with a beard wearing a denim shirt, standing in an office environment with a neutral expression.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A man with a beard wearing a denim shirt, standing in an office environment with a neutral expression, holding a cup of coffee.",
+                "Delta Prompt": "holding a cup of coffee"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A man with a beard wearing a denim shirt, standing in an office environment with a neutral expression, with a whiteboard covered in notes in the background.",
+                "Delta Prompt": "a whiteboard covered in notes in the background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A man with a beard wearing a denim shirt, standing in an office environment with a neutral expression, in a black-and-white, documentary style.",
+                "Delta Prompt": "in a black-and-white, documentary style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A man with a beard wearing a denim shirt, standing in an office environment with a neutral expression, holding a cup of coffee and with a whiteboard covered in notes in the background.",
+                "Delta Prompt": "holding a cup of coffee and a whiteboard covered in notes in the background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A man with a beard wearing a denim shirt and glasses, standing in an office environment with a neutral expression.",
+                "Delta Prompt": "wearing glasses"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A man with a beard wearing a denim shirt, standing in an office environment with a neutral expression, gesturing with one hand.",
+                "Delta Prompt": "gesturing with one hand"
+            }
+        ]
+    },
+    {
+        "Video Name": "Wz1e9EDfkjc_14_0to949",
+        "Video Type": "Human",
+        "Original Prompt": "A man with a cheerful expression tying a paisley necktie while wearing pink suspenders and a white shirt, against a plain background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A man with a cheerful expression tying a paisley necktie while wearing pink suspenders and a white shirt, with a small flower boutonniere on his shirt.",
+                "Delta Prompt": "a small flower boutonniere on his shirt"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A man with a cheerful expression tying a paisley necktie while wearing pink suspenders and a white shirt, with a gradient blue background.",
+                "Delta Prompt": "a gradient blue background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A man with a cheerful expression tying a paisley necktie while wearing pink suspenders and a white shirt, in a vintage, film grain style.",
+                "Delta Prompt": "in a vintage, film grain style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A man with a cheerful expression tying a paisley necktie while wearing pink suspenders and a white shirt, with a small flower boutonniere on his shirt and a gradient blue background.",
+                "Delta Prompt": "a small flower boutonniere on his shirt and a gradient blue background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A man with a cheerful expression tying a paisley necktie while wearing pink suspenders, a white shirt, and a black hat.",
+                "Delta Prompt": "wearing a black hat"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A man with a cheerful expression adjusting his paisley necktie while wearing pink suspenders and a white shirt, looking to the side.",
+                "Delta Prompt": "looking to the side"
+            }
+        ]
+    },
+    {
+        "Video Name": "yBfYtEy1Ovo_11_0to144",
+        "Video Type": "Human",
+        "Original Prompt": "A young man with a slight smile and a trimmed beard, wearing a black shirt, against a plain white background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A young man with a slight smile and a trimmed beard, wearing a black shirt and glasses, against a plain white background.",
+                "Delta Prompt": "wearing glasses"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A young man with a slight smile and a trimmed beard, wearing a black shirt, with a gradient blue background.",
+                "Delta Prompt": "a gradient blue background"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A young man with a slight smile and a trimmed beard, wearing a black shirt, in a retro, sepia-toned filter style.",
+                "Delta Prompt": "in a retro, sepia-toned filter style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A young man with a slight smile and a trimmed beard, wearing a black shirt and glasses, with a gradient blue background.",
+                "Delta Prompt": "wearing glasses and a gradient blue background"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A young man with a slight smile and a trimmed beard, wearing a black shirt and a red beanie, against a plain white background.",
+                "Delta Prompt": "wearing a red beanie"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A young man with a slight smile and a trimmed beard, wearing a black shirt, tilting his head to the side against a plain white background.",
+                "Delta Prompt": "tilting his head to the side"
+            }
+        ]
+    },
+    {
+        "Video Name": "zD0ReY7N0sg_0_0to1061",
+        "Video Type": "Human",
+        "Original Prompt": "A woman with glasses and long dark hair, smiling slightly, wearing a black shirt against a plain beige background.",
+        "Types": [
+            { 
+                "Editing Type": "Foreground",
+                "Full Prompt": "A woman with glasses and long dark hair, smiling slightly, wearing a black shirt and a silver necklace, against a plain beige background.",
+                "Delta Prompt": "wearing a silver necklace"
+            },
+            { 
+                "Editing Type": "Background",
+                "Full Prompt": "A woman with glasses and long dark hair, smiling slightly, wearing a black shirt, with a soft gradient background from beige to light blue.",
+                "Delta Prompt": "a soft gradient background from beige to light blue"
+            }, 
+            { 
+                "Editing Type": "Style",
+                "Full Prompt": "A woman with glasses and long dark hair, smiling slightly, wearing a black shirt, in a vintage, sepia-toned style.",
+                "Delta Prompt": "in a vintage, sepia-toned style"
+            }, 
+            { 
+                "Editing Type": "Composite",
+                "Full Prompt": "A woman with glasses and long dark hair, smiling slightly, wearing a black shirt and a silver necklace, with a soft gradient background from beige to light blue.",
+                "Delta Prompt": "wearing a silver necklace and a soft gradient background from beige to light blue"
+            }
+        ],
+        "Scenarios": [
+            { 
+                "Editing Type": "Appearance",
+                "Full Prompt": "A woman with glasses and long dark hair, smiling slightly, wearing a black shirt and a red scarf, against a plain beige background.",
+                "Delta Prompt": "wearing a red scarf"
+            },
+            { 
+                "Editing Type": "Motion/Pose",
+                "Full Prompt": "A woman with glasses and long dark hair, smiling slightly, wearing a black shirt, tilting her head slightly to the right against a plain beige background.",
+                "Delta Prompt": "tilting her head slightly to the right"
+            }
+        ]
+    }
+]

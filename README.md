@@ -1,7 +1,7 @@
 <!-- <p align="center">
     <img src="assets/a-logo-representing - omnicreator - -a-powerful-ai-t.png" width="150" style="margin-bottom: 0.2;"/>
 <p> -->
-<h2 align="center"> <a href="https://arxiv.org/abs/2311.10122">Beyond Generation: Unlocking Universal Editing via Self-Supervised Fine-Tuning</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2412.02114">Beyond Generation: Unlocking Universal Editing via Self-Supervised Fine-Tuning</a></h2>
 <!-- ![](./assets/logo_long.png#gh-light-mode-only){: width="50%"} -->
 <!-- ![](./assets/logo_long_dark.png#gh-dark-mode-only=100x20) -->
 <div align="center">
